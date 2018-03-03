@@ -132,3 +132,10 @@ exclude:
 ```
 
 There are many more options possible in this yaml specs. Have a look at the [docstring of the script](https://github.com/datenguide/datenguide-backend/blob/master/pipeline/load.py#L47)
+
+
+## License
+
+The software and documentation in this repo is published under [MIT license](https://github.com/datenguide/genesapi-data/blob/master/LICENSE).
+
+The [source data](https://github.com/datenguide/genesapi-data/tree/master/src) was originally published by the [Statistische Ämter des Bundes und der Länder](https://www.regionalstatistik.de/) under the [dl-de/by-2-0 license](https://www.govdata.de/dl-de/by-2-0).
