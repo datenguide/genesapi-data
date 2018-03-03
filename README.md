@@ -21,3 +21,9 @@ Source datasets from GENESIS instances and their meta descriptions
 
 Raw (unprocessed) csv files from the sources mentioned above should be put into the `src`-folder. The naming convention would be the identifier (unique id) for this table in the GENESIS platforms, for example `23112-01-04-4.csv`
 
+## License
+
+The software and documentation in this repo is published under [MIT license](https://github.com/datenguide/genesapi-data/blob/master/LICENSE).
+
+The [source data](https://github.com/datenguide/genesapi-data) was originally published by the [Statistische Ämter des Bundes und der Länder](https://www.regionalstatistik.de/) under the [dl-de/by-2-0 license](https://www.govdata.de/dl-de/by-2-0).
+
