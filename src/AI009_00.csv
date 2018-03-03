@@ -1,0 +1,537 @@
+GENESIS-Tabelle: AI009
+Regionalatlas Deutschland;;;;;
+Indikatoren des Themenbereichs "Landwirtschaft";;;;;
+Regionalatlas Deutschland;;;;;
+;;;Durchschnittliche Betriebsgröße;Rinder je 100 ha landwirtschaftl. genutzter Fläche;Schweine je 100 ha landwirtschaftl. genutz. Fläche
+;;;ha;Anzahl;Anzahl
+2010;DG;Deutschland;55,8;75,0;165,1
+2010;01;  Schleswig-Holstein;70,5;114,2;162,7
+2010;01001;      Flensburg, Kreisfreie Stadt;22,2;166,7;.
+2010;01002;      Kiel, Landeshauptstadt, Kreisfreie Stadt;69,2;58,6;.
+2010;01003;      Lübeck, Hansestadt, Kreisfreie Stadt;60,8;45,6;155,1
+2010;01004;      Neumünster, Kreisfreie Stadt;57,9;123,6;.
+2010;01051;      Dithmarschen, Landkreis;69,5;134,5;69,0
+2010;01053;      Herzogtum Lauenburg, Landkreis;84,4;44,6;170,2
+2010;01054;      Nordfriesland, Landkreis;65,9;152,5;187,5
+2010;01055;      Ostholstein, Landkreis;96,4;26,2;133,9
+2010;01056;      Pinneberg, Landkreis;36,1;129,1;59,0
+2010;01057;      Plön, Landkreis;87,6;65,7;117,8
+2010;01058;      Rendsburg-Eckernförde, Landkreis;73,7;134,6;108,9
+2010;01059;      Schleswig-Flensburg, Landkreis;73,6;151,4;265,3
+2010;01060;      Segeberg, Landkreis;65,3;91,6;237,5
+2010;01061;      Steinburg, Landkreis;60,4;182,0;170,5
+2010;01062;      Stormarn, Landkreis;74,7;55,4;200,2
+2010;02;  Hamburg;18,5;42,5;.
+2010;03;  Niedersachsen;61,8;96,4;327,1
+2010;031;    Braunschweig, Stat. Region;81,9;20,7;62,0
+2010;03101;      Braunschweig, Kreisfreie Stadt;86,5;7,6;16,4
+2010;03102;      Salzgitter, Kreisfreie Stadt;101,7;2,9;42,4
+2010;03103;      Wolfsburg, Kreisfreie Stadt;88,4;13,7;21,7
+2010;03151;      Gifhorn, Landkreis;84,5;27,0;61,0
+2010;03152;      Göttingen, Landkreis;72,7;29,0;118,5
+2010;03153;      Goslar, Landkreis;87,9;17,8;67,8
+2010;03154;      Helmstedt, Landkreis;106,0;11,4;8,9
+2010;03155;      Northeim, Landkreis;65,3;35,2;113,5
+2010;03156;      Osterode am Harz, Landkreis;59,2;34,9;35,4
+2010;03157;      Peine, Landkreis;76,9;12,5;41,4
+2010;03158;      Wolfenbüttel, Landkreis;109,7;2,7;22,2
+2010;03159;      Göttingen, Landkreis;-;-;-
+2010;032;    Hannover, Stat. Region;68,5;43,2;241,2
+2010;03241;      Region Hannover, Landkreis;71,7;28,1;100,2
+2010;03241001;      Hannover, Landeshauptstadt;.;.;.
+2010;03251;      Diepholz, Landkreis;65,4;74,3;455,5
+2010;03252;      Hameln-Pyrmont, Landkreis;74,1;22,8;126,4
+2010;03254;      Hildesheim, Landkreis;74,3;9,0;56,0
+2010;03255;      Holzminden, Landkreis;74,2;52,2;88,1
+2010;03256;      Nienburg (Weser), Landkreis;61,6;55,5;381,8
+2010;03257;      Schaumburg, Landkreis;69,0;30,2;175,3
+2010;033;    Lüneburg, Stat. Region;68,6;103,5;174,9
+2010;03351;      Celle, Landkreis;76,6;43,7;195,6
+2010;03352;      Cuxhaven, Landkreis;64,7;205,7;61,6
+2010;03353;      Harburg, Landkreis;58,8;64,0;150,8
+2010;03354;      Lüchow-Dannenberg, Landkreis;94,8;36,3;109,4
+2010;03355;      Lüneburg, Landkreis;97,7;46,0;77,4
+2010;03356;      Osterholz, Landkreis;48,5;180,1;36,1
+2010;03357;      Rotenburg (Wümme), Landkreis;67,8;141,0;325,3
+2010;03358;      Heidekreis, Landkreis;71,5;55,0;248,1
+2010;03359;      Stade, Landkreis;53,8;132,3;184,4
+2010;03360;      Uelzen, Landkreis;97,4;16,5;124,1
+2010;03361;      Verden, Landkreis;58,4;82,2;404,1
+2010;034;    Weser-Ems, Stat. Region;49,6;150,8;618,4
+2010;03401;      Delmenhorst, Kreisfreie Stadt;41,2;193,0;97,0
+2010;03402;      Emden, Kreisfreie Stadt;79,8;120,4;.
+2010;03403;      Oldenburg (Oldenburg), Kreisfreie Stadt;43,3;186,2;.
+2010;03404;      Osnabrück, Kreisfreie Stadt;38,1;70,0;422,1
+2010;03405;      Wilhelmshaven, Kreisfreie Stadt;70,1;145,7;.
+2010;03451;      Ammerland, Landkreis;43,2;198,0;154,8
+2010;03452;      Aurich, Landkreis;56,0;149,5;101,2
+2010;03453;      Cloppenburg, Landkreis;44,4;160,2;1327,3
+2010;03454;      Emsland, Landkreis;49,1;116,1;827,6
+2010;03455;      Friesland, Landkreis;67,1;190,6;78,8
+2010;03456;      Grafschaft Bentheim, Landkreis;43,3;172,3;711,8
+2010;03457;      Leer, Landkreis;52,0;204,8;34,1
+2010;03458;      Oldenburg, Landkreis;58,5;120,1;518,9
+2010;03459;      Osnabrück, Landkreis;42,6;106,7;823,2
+2010;03460;      Vechta, Landkreis;44,9;136,9;1673,6
+2010;03461;      Wesermarsch, Landkreis;67,2;212,3;13,1
+2010;03462;      Wittmund, Landkreis;55,3;174,2;89,6
+2010;04;  Bremen;51,3;127,9;.
+2010;04011;      Bremen, Kreisfreie Stadt;.;.;.
+2010;04012;      Bremerhaven, Kreisfreie Stadt;.;.;.
+2010;05;  Nordrhein-Westfalen;40,9;94,4;455,9
+2010;051;    Düsseldorf, Regierungsbezirk;40,6;113,5;240,3
+2010;05111;      Düsseldorf, Kreisfreie Stadt;26,6;10,3;.
+2010;05112;      Duisburg, Kreisfreie Stadt;42,6;28,7;7,9
+2010;05113;      Essen, Kreisfreie Stadt;41,2;30,0;.
+2010;05114;      Krefeld, Kreisfreie Stadt;41,7;38,6;124,1
+2010;05116;      Mönchengladbach, Kreisfreie Stadt;40,5;49,8;10,0
+2010;05117;      Mülheim an der Ruhr, Kreisfreie Stadt;32,1;23,6;.
+2010;05119;      Oberhausen, Kreisfreie Stadt;27,4;44,1;.
+2010;05120;      Remscheid, Kreisfreie Stadt;34,3;137,2;63,8
+2010;05122;      Solingen, Kreisfreie Stadt;30,9;76,3;.
+2010;05124;      Wuppertal, Kreisfreie Stadt;31,0;101,3;4,1
+2010;05154;      Kleve, Kreis;38,7;160,2;414,8
+2010;05158;      Mettmann, Kreis;43,5;34,3;23,6
+2010;05162;      Rhein-Kreis Neuss;51,2;21,0;41,4
+2010;05166;      Viersen, Kreis;37,0;115,2;265,8
+2010;05170;      Wesel, Kreis;43,1;153,7;253,8
+2010;053;    Köln, Regierungsbezirk;50,3;74,5;21,6
+2010;05314;      Bonn, Kreisfreie Stadt;32,6;12,8;.
+2010;05315;      Köln, Kreisfreie Stadt;89,5;2,8;.
+2010;05316;      Leverkusen, Kreisfreie Stadt;42,2;70,6;.
+2010;05334;      Städteregion Aachen (einschl. Stadt Aachen);46,9;116,0;11,8
+2010;05334002;      Aachen, krfr. Stadt;.;.;.
+2010;05354;      Aachen, Kreis;.;.;.
+2010;05358;      Düren, Kreis;65,5;28,9;12,0
+2010;05362;      Rhein-Erft-Kreis;68,7;7,8;23,3
+2010;05366;      Euskirchen, Kreis;53,4;73,5;7,4
+2010;05370;      Heinsberg, Kreis;46,5;89,5;85,8
+2010;05374;      Oberbergischer Kreis;40,4;159,7;5,5
+2010;05378;      Rheinisch-Bergischer Kreis;33,7;138,6;14,5
+2010;05382;      Rhein-Sieg-Kreis;42,5;82,5;15,2
+2010;055;    Münster, Regierungsbezirk;36,2;132,9;1007,0
+2010;05512;      Bottrop, Kreisfreie Stadt;41,4;129,5;754,8
+2010;05513;      Gelsenkirchen, Kreisfreie Stadt;21,3;135,8;202,2
+2010;05515;      Münster, Kreisfreie Stadt;37,3;87,2;714,8
+2010;05554;      Borken, Kreis;30,8;241,9;1014,3
+2010;05558;      Coesfeld, Kreis;39,8;84,5;1254,6
+2010;05562;      Recklinghausen, Kreis;34,5;115,5;654,5
+2010;05566;      Steinfurt, Kreis;36,1;126,5;962,6
+2010;05570;      Warendorf, Kreis;41,2;79,9;1018,5
+2010;057;    Detmold, Regierungsbezirk;41,5;62,1;474,4
+2010;05711;      Bielefeld, Kreisfreie Stadt;34,9;39,6;292,9
+2010;05754;      Gütersloh, Kreis;32,0;110,9;530,6
+2010;05758;      Herford, Kreis;36,5;36,9;478,6
+2010;05762;      Höxter, Kreis;47,2;49,9;419,5
+2010;05766;      Lippe, Kreis;60,0;29,3;248,4
+2010;05770;      Minden-Lübbecke, Kreis;40,2;57,6;582,7
+2010;05774;      Paderborn, Kreis;39,4;78,2;589,1
+2010;059;    Arnsberg, Regierungsbezirk;40,0;82,7;271,4
+2010;05911;      Bochum, Kreisfreie Stadt;42,3;8,4;21,7
+2010;05913;      Dortmund, Kreisfreie Stadt;48,0;38,0;73,2
+2010;05914;      Hagen, Kreisfreie Stadt;27,7;96,8;8,9
+2010;05915;      Hamm, Kreisfreie Stadt;42,8;66,2;517,4
+2010;05916;      Herne, Kreisfreie Stadt;31,1;19,7;366,4
+2010;05954;      Ennepe-Ruhr-Kreis;32,2;104,8;50,6
+2010;05958;      Hochsauerlandkreis;37,8;118,0;93,8
+2010;05962;      Märkischer Kreis;41,0;107,7;153,7
+2010;05966;      Olpe, Kreis;26,8;132,5;62,2
+2010;05970;      Siegen-Wittgenstein, Kreis;26,8;101,9;7,9
+2010;05974;      Soest, Kreis;51,2;49,2;476,7
+2010;05978;      Unna, Kreis;46,3;51,0;524,8
+2010;06;  Hessen;43,0;60,5;94,7
+2010;064;    Darmstadt, Regierungsbezirk;41,0;47,7;45,5
+2010;06411;      Darmstadt, Kreisfreie Stadt;54,1;4,1;34,5
+2010;06412;      Frankfurt am Main, Kreisfreie Stadt;36,5;7,0;.
+2010;06413;      Offenbach am Main, Kreisfreie Stadt;36,0;.;.
+2010;06414;      Wiesbaden, Landeshauptstadt, Kreisfreie Stadt;32,5;19,9;15,0
+2010;06431;      Bergstraße, Landkreis;36,8;63,4;32,2
+2010;06432;      Darmstadt-Dieburg, Landkreis;47,0;37,2;117,7
+2010;06433;      Groß-Gerau, Landkreis;50,4;11,6;.
+2010;06434;      Hochtaunuskreis;43,5;33,1;15,2
+2010;06435;      Main-Kinzig-Kreis;40,4;74,7;27,1
+2010;06436;      Main-Taunus-Kreis;33,6;15,3;21,0
+2010;06437;      Odenwaldkreis;35,6;122,5;52,5
+2010;06438;      Offenbach, Landkreis;43,2;36,0;.
+2010;06439;      Rheingau-Taunus-Kreis;26,3;13,8;40,6
+2010;06440;      Wetteraukreis;53,2;39,1;47,1
+2010;065;    Gießen, Regierungsbezirk;45,7;63,2;72,0
+2010;06531;      Gießen, Landkreis;52,9;38,4;50,7
+2010;06532;      Lahn-Dill-Kreis;39,8;46,0;.
+2010;06533;      Limburg-Weilburg, Landkreis;54,5;55,2;58,1
+2010;06534;      Marburg-Biedenkopf, Landkreis;37,3;62,9;.
+2010;06535;      Vogelsbergkreis;49,4;87,2;107,2
+2010;066;    Kassel, Regierungsbezirk;43,1;68,1;144,7
+2010;06611;      Kassel, Kreisfreie Stadt;28,8;8,0;.
+2010;06631;      Fulda, Landkreis;35,2;106,2;.
+2010;06632;      Hersfeld-Rotenburg, Landkreis;40,8;63,7;177,0
+2010;06633;      Kassel, Landkreis;52,0;35,7;115,7
+2010;06634;      Schwalm-Eder-Kreis;48,4;48,6;235,1
+2010;06635;      Waldeck-Frankenberg, Landkreis;39,3;90,6;115,5
+2010;06636;      Werra-Meißner-Kreis;52,1;50,4;104,3
+2010;07;  Rheinland-Pfalz;34,3;52,3;36,6
+2010;071;    Koblenz, Stat. Region;40,3;52,1;37,2
+2010;07111;      Koblenz, Kreisfreie Stadt;27,5;12,2;.
+2010;07131;      Ahrweiler, Landkreis;33,4;60,0;13,7
+2010;07132;      Altenkirchen (Westerwald), Landkreis;39,2;115,4;.
+2010;07133;      Bad Kreuznach, Landkreis;30,9;24,5;16,3
+2010;07134;      Birkenfeld, Landkreis;62,6;65,2;38,2
+2010;07135;      Cochem-Zell, Landkreis;24,5;34,9;43,2
+2010;07137;      Mayen-Koblenz, Landkreis;52,7;25,2;94,3
+2010;07138;      Neuwied, Landkreis;42,6;83,3;14,8
+2010;07140;      Rhein-Hunsrück-Kreis;44,6;45,2;34,8
+2010;07141;      Rhein-Lahn-Kreis;49,9;43,0;62,3
+2010;07143;      Westerwaldkreis;49,0;85,0;5,7
+2010;072;    Trier, Stat. Region;34,4;100,4;54,5
+2010;07211;      Trier, Kreisfreie Stadt;33,2;33,1;.
+2010;07231;      Bernkastel-Wittlich, Landkreis;20,7;69,8;37,0
+2010;07232;      Eifelkreis Bitburg-Prüm;52,3;130,6;82,8
+2010;07233;      Vulkaneifel, Landkreis;48,0;99,4;.
+2010;07235;      Trier-Saarburg, Landkreis;24,9;65,6;44,9
+2010;073;    Rheinhessen-Pfalz, Stat. Region;29,9;20,2;24,0
+2010;07311;      Frankenthal (Pfalz), Kreisfreie Stadt;57,2;.;.
+2010;07312;      Kaiserslautern, Kreisfreie Stadt;49,1;28,5;.
+2010;07313;      Landau in der Pfalz, Kreisfreie Stadt;9,9;.;.
+2010;07314;      Ludwigshafen am Rhein, Kreisfreie Stadt;39,1;.;4,6
+2010;07315;      Mainz, Kreisfreie Stadt;32,2;.;5,4
+2010;07316;      Neustadt an der Weinstraße, Kreisfreie Stadt;12,1;7,8;.
+2010;07317;      Pirmasens, Kreisfreie Stadt;34,3;56,7;116,7
+2010;07318;      Speyer, Kreisfreie Stadt;26,4;.;.
+2010;07319;      Worms, Kreisfreie Stadt;38,0;0,8;2,4
+2010;07320;      Zweibrücken, Kreisfreie Stadt;58,0;68,0;130,8
+2010;07331;      Alzey-Worms, Landkreis;27,8;1,0;2,8
+2010;07332;      Bad Dürkheim, Landkreis;17,4;2,9;9,7
+2010;07333;      Donnersbergkreis;61,5;22,5;43,8
+2010;07334;      Germersheim, Landkreis;44,8;8,8;26,3
+2010;07335;      Kaiserslautern, Landkreis;53,5;52,9;33,4
+2010;07336;      Kusel, Landkreis;67,8;53,5;45,8
+2010;07337;      Südliche Weinstraße, Landkreis;14,5;6,5;1,6
+2010;07338;      Rhein-Pfalz-Kreis;54,7;2,3;7,9
+2010;07339;      Mainz-Bingen, Landkreis;21,2;4,6;4,5
+2010;07340;      Südwestpfalz, Landkreis;41,5;79,9;84,3
+2010;08;  Baden-Württemberg, Land;31,7;72,0;151,3
+2010;081;    Stuttgart, Regierungsbezirk;32,3;65,9;247,2
+2010;08111;      Stuttgart, Landeshauptstadt, Stadtkreis;12,6;36,8;.
+2010;08115;      Böblingen, Landkreis;36,5;41,6;96,9
+2010;08116;      Esslingen, Landkreis;29,8;48,2;37,0
+2010;08117;      Göppingen, Landkreis;36,0;109,2;91,5
+2010;08118;      Ludwigsburg, Landkreis;24,1;41,1;132,6
+2010;08119;      Rems-Murr-Kreis, Landkreis;19,8;83,2;64,4
+2010;08121;      Heilbronn, Stadtkreis;22,8;3,1;.
+2010;08125;      Heilbronn, Landkreis;25,4;24,5;65,1
+2010;08126;      Hohenlohekreis, Landkreis;33,5;55,8;437,8
+2010;08127;      Schwäbisch Hall, Landkreis;37,6;87,3;622,4
+2010;08128;      Main-Tauber-Kreis, Landkreis;43,8;30,2;221,2
+2010;08135;      Heidenheim, Landkreis;45,1;88,3;189,9
+2010;08136;      Ostalbkreis, Landkreis;35,4;115,8;221,4
+2010;082;    Karlsruhe, Regierungsbzirk;40,8;40,3;54,4
+2010;08211;      Baden-Baden, Stadtkreis;13,3;13,6;.
+2010;08212;      Karlsruhe, Stadtkreis;38,7;11,6;48,1
+2010;08215;      Karlsruhe, Landkreis;49,0;14,7;17,7
+2010;08216;      Rastatt, Landkreis;26,5;17,0;48,5
+2010;08221;      Heidelberg, Stadtkreis;20,6;28,1;41,8
+2010;08222;      Mannheim, Stadtkreis;41,4;2,7;.
+2010;08225;      Neckar-Odenwald-Kreis, Landkreis;52,8;52,6;81,4
+2010;08226;      Rhein-Neckar-Kreis, Landkreis;39,4;32,7;71,6
+2010;08231;      Pforzheim, Stadtkreis;42,5;22,2;9,3
+2010;08235;      Calw, Landkreis;37,2;70,5;40,5
+2010;08236;      Enzkreis, Landkreis;44,2;53,7;40,4
+2010;08237;      Freudenstadt, Landkreis;36,6;66,5;74,4
+2010;083;    Freiburg, Regierungsbezirk;23,4;69,0;47,7
+2010;08311;      Freiburg im Breisgau, Stadtkreis;16,1;15,2;11,6
+2010;08315;      Breisgau-Hochschwarzwald, Landkreis;16,9;59,5;17,6
+2010;08316;      Emmendingen, Landkreis;15,7;66,9;22,5
+2010;08317;      Ortenaukreis, Landkreis;15,5;55,6;55,7
+2010;08325;      Rottweil, Landkreis;37,6;62,1;128,7
+2010;08326;      Schwarzwald-Baar-Kreis, Landkreis;37,4;83,7;57,0
+2010;08327;      Tuttlingen, Landkreis;52,2;67,9;45,1
+2010;08335;      Konstanz, Landkreis;37,4;75,5;54,7
+2010;08336;      Lörrach, Landkreis;21,6;67,7;15,4
+2010;08337;      Waldshut, Landkreis;30,9;93,0;34,1
+2010;084;    Tübingen, Regierungsbezirk;36,8;95,8;169,9
+2010;08415;      Reutlingen, Landkreis;40,3;69,6;70,4
+2010;08416;      Tübingen, Landkreis;48,0;31,9;85,1
+2010;08417;      Zollernalbkreis, Landkreis;44,9;41,5;28,7
+2010;08421;      Ulm, Stadtkreis;39,8;43,4;423,2
+2010;08425;      Alb-Donau-Kreis, Landkreis;39,1;71,1;389,3
+2010;08426;      Biberach, Landkreis;41,3;121,7;227,8
+2010;08435;      Bodenseekreis, Landkreis;19,9;76,0;60,8
+2010;08436;      Ravensburg, Landkreis;33,7;171,0;66,0
+2010;08437;      Sigmaringen, Landkreis;43,7;68,6;197,2
+2010;09;  Bayern;32,1;107,0;116,5
+2010;091;    Oberbayern, Regierungsbezirk;30,0;130,7;57,7
+2010;09161;      Ingolstadt;38,3;33,4;11,6
+2010;09162;      München, Landeshauptstadt;42,1;21,0;.
+2010;09163;      Rosenheim;21,8;233,6;.
+2010;09171;      Altötting, Landkreis;30,5;161,9;95,5
+2010;09172;      Berchtesgadener Land, Landkreis;17,4;192,9;15,0
+2010;09173;      Bad Tölz-Wolfratshausen, Landkreis;28,9;140,5;2,5
+2010;09174;      Dachau, Landkreis;40,9;106,0;60,8
+2010;09175;      Ebersberg, Landkreis;28,5;161,0;24,0
+2010;09176;      Eichstätt, Landkreis;37,1;46,9;93,8
+2010;09177;      Erding, Landkreis;32,2;168,7;126,7
+2010;09178;      Freising, Landkreis;35,0;68,3;94,2
+2010;09179;      Fürstenfeldbruck, Landkreis;37,5;85,9;46,1
+2010;09180;      Garmisch-Partenkirchen, Landkreis;23,0;110,7;.
+2010;09181;      Landsberg am Lech, Landkreis;37,5;117,9;17,1
+2010;09182;      Miesbach, Landkreis;26,1;136,1;0,9
+2010;09183;      Mühldorf a.Inn, Landkreis;27,5;200,8;91,4
+2010;09184;      München, Landkreis;36,9;35,5;11,6
+2010;09185;      Neuburg-Schrobenhausen, Landkreis;33,7;73,6;72,6
+2010;09186;      Pfaffenhofen a.d.Ilm, Landkreis;27,3;59,0;138,8
+2010;09187;      Rosenheim, Landkreis;24,1;212,8;13,8
+2010;09188;      Starnberg, Landkreis;36,0;86,8;9,6
+2010;09189;      Traunstein, Landkreis;26,2;185,0;70,1
+2010;09190;      Weilheim-Schongau, Landkreis;30,2;161,4;2,1
+2010;092;    Niederbayern, Regierungsbezirk;30,5;99,6;242,8
+2010;09261;      Landshut;35,0;78,1;172,9
+2010;09262;      Passau;20,7;134,4;33,0
+2010;09263;      Straubing;34,0;11,2;49,8
+2010;09271;      Deggendorf, Landkreis;29,1;77,2;89,4
+2010;09272;      Freyung-Grafenau, Landkreis;22,3;154,9;2,7
+2010;09273;      Kelheim, Landkreis;31,1;47,3;215,2
+2010;09274;      Landshut, Landkreis;35,5;93,3;430,1
+2010;09275;      Passau, Landkreis;31,6;106,9;422,1
+2010;09276;      Regen, Landkreis;20,5;175,6;7,4
+2010;09277;      Rottal-Inn, Landkreis;28,9;171,6;148,4
+2010;09278;      Straubing-Bogen, Landkreis;32,5;61,1;127,5
+2010;09279;      Dingolfing-Landau, Landkreis;35,2;58,7;331,5
+2010;093;    Oberpfalz, Regierungsbezirk;32,0;115,4;73,3
+2010;09361;      Amberg;47,9;71,8;111,2
+2010;09362;      Regensburg;46,0;9,8;1,1
+2010;09363;      Weiden i.d.OPf.;36,5;104,0;127,2
+2010;09371;      Amberg-Sulzbach, Landkreis;34,4;111,2;105,7
+2010;09372;      Cham, Landkreis;26,1;177,1;36,8
+2010;09373;      Neumarkt i.d.OPf., Landkreis;31,2;89,1;71,6
+2010;09374;      Neustadt a.d.Waldnaab, Landkreis;32,9;136,6;58,4
+2010;09375;      Regensburg, Landkreis;37,3;58,7;52,5
+2010;09376;      Schwandorf, Landkreis;31,0;124,9;88,6
+2010;09377;      Tirschenreuth, Landkreis;32,7;131,5;122,1
+2010;094;    Oberfranken, Regierungsbezirk;34,4;79,8;83,1
+2010;09461;      Bamberg;11,1;.;.
+2010;09462;      Bayreuth;52,6;91,0;81,3
+2010;09463;      Coburg;44,0;.;.
+2010;09464;      Hof;47,5;88,2;47,4
+2010;09471;      Bamberg, Landkreis;33,1;55,5;63,5
+2010;09472;      Bayreuth, Landkreis;32,9;104,3;73,5
+2010;09473;      Coburg, Landkreis;47,0;67,4;236,9
+2010;09474;      Forchheim, Landkreis;19,5;57,8;34,0
+2010;09475;      Hof, Landkreis;46,1;98,7;70,8
+2010;09476;      Kronach, Landkreis;29,0;73,9;43,1
+2010;09477;      Kulmbach, Landkreis;38,5;78,3;94,7
+2010;09478;      Lichtenfels, Landkreis;30,6;70,4;69,9
+2010;09479;      Wunsiedel i.Fichtelgebirge, Landkreis;42,9;97,8;35,5
+2010;095;    Mittelfranken, Regierungsbezirk;33,1;101,4;163,1
+2010;09561;      Ansbach;28,0;94,0;120,8
+2010;09562;      Erlangen;30,3;73,0;9,8
+2010;09563;      Fürth;26,3;61,0;73,4
+2010;09564;      Nürnberg;17,4;35,3;11,5
+2010;09565;      Schwabach;23,5;105,7;38,4
+2010;09571;      Ansbach, Landkreis;36,0;117,7;174,1
+2010;09572;      Erlangen-Höchstadt, Landkreis;28,8;61,2;38,8
+2010;09573;      Fürth, Landkreis;38,6;100,2;45,6
+2010;09574;      Nürnberger Land, Landkreis;28,1;79,0;63,1
+2010;09575;      Neustadt a.d.Aisch-Bad Windsheim, Landkreis;36,6;89,0;321,7
+2010;09576;      Roth, Landkreis;27,9;107,1;59,3
+2010;09577;      Weißenburg-Gunzenhausen, Landkreis;32,9;113,7;144,0
+2010;096;    Unterfranken, Regierungsbezirk;37,7;36,9;108,4
+2010;09661;      Aschaffenburg;42,7;44,8;.
+2010;09662;      Schweinfurt;66,4;.;.
+2010;09663;      Würzburg;49,4;.;.
+2010;09671;      Aschaffenburg, Landkreis;33,5;43,4;72,3
+2010;09672;      Bad Kissingen, Landkreis;41,3;47,6;67,3
+2010;09673;      Rhön-Grabfeld, Landkreis;45,1;23,9;120,6
+2010;09674;      Haßberge, Landkreis;39,7;47,4;114,7
+2010;09675;      Kitzingen, Landkreis;26,5;47,0;194,2
+2010;09676;      Miltenberg, Landkreis;39,9;57,4;108,0
+2010;09677;      Main-Spessart, Landkreis;38,4;25,3;47,3
+2010;09678;      Schweinfurt, Landkreis;39,6;33,6;97,8
+2010;09679;      Würzburg, Landkreis;37,9;30,4;127,3
+2010;097;    Schwaben, Regierungsbezirk;31,7;140,3;105,9
+2010;09761;      Augsburg;43,0;42,2;36,7
+2010;09762;      Kaufbeuren;26,3;181,2;.
+2010;09763;      Kempten (Allgäu);34,3;188,5;.
+2010;09764;      Memmingen;28,5;184,3;1,4
+2010;09771;      Aichach-Friedberg, Landkreis;36,6;106,4;260,3
+2010;09772;      Augsburg, Landkreis;35,7;117,3;119,4
+2010;09773;      Dillingen a.d.Donau, Landkreis;40,7;104,7;224,1
+2010;09774;      Günzburg, Landkreis;35,1;125,6;89,6
+2010;09775;      Neu-Ulm, Landkreis;34,5;112,9;70,2
+2010;09776;      Lindau (Bodensee), Landkreis;20,4;168,4;11,5
+2010;09777;      Ostallgäu, Landkreis;29,2;184,9;5,9
+2010;09778;      Unterallgäu, Landkreis;30,9;202,9;33,5
+2010;09779;      Donau-Ries, Landkreis;33,6;91,0;232,0
+2010;09780;      Oberallgäu, Landkreis;25,6;153,9;5,6
+2010;10;  Saarland;59,0;64,7;15,3
+2010;10041;      Saarbrücken, Regionalverband;49,7;46,6;3,9
+2010;10041100;      Saarbrücken, Landeshauptstadt;50,1;30,0;.
+2010;10042;      Merzig-Wadern, Landkreis;55,6;66,7;16,7
+2010;10043;      Neunkirchen, Landkreis;54,9;77,0;12,4
+2010;10044;      Saarlouis, Landkreis;63,9;52,7;13,2
+2010;10045;      Saarpfalz-Kreis;61,0;56,5;17,2
+2010;10046;      St. Wendel, Landkreis;63,8;81,5;19,8
+2010;11;  Berlin;33,1;23,6;2,3
+2010;12;  Brandenburg;237,8;41,9;60,8
+2010;12051;      Brandenburg an der Havel, Kreisfreie Stadt;95,8;21,4;.
+2010;12052;      Cottbus, Kreisfreie Stadt;275,9;32,9;.
+2010;12053;      Frankfurt (Oder), Kreisfreie Stadt;142,7;65,6;.
+2010;12054;      Potsdam, Kreisfreie Stadt;121,2;30,4;0,1
+2010;12060;      Barnim, Landkreis;210,7;36,9;43,1
+2010;12061;      Dahme-Spreewald, Landkreis;198,0;51,6;28,9
+2010;12062;      Elbe-Elster, Landkreis;249,3;59,3;123,6
+2010;12063;      Havelland, Landkreis;251,9;43,9;14,0
+2010;12064;      Märkisch-Oderland, Landkreis;277,6;23,4;55,4
+2010;12065;      Oberhavel, Landkreis;172,7;43,9;36,0
+2010;12066;      Oberspreewald-Lausitz, Landkreis;192,6;43,4;197,6
+2010;12067;      Oder-Spree, Landkreis;241,8;40,9;48,0
+2010;12068;      Ostprignitz-Ruppin, Landkreis;258,4;47,0;19,9
+2010;12069;      Potsdam-Mittelmark, Landkreis;185,2;46,3;90,6
+2010;12070;      Prignitz, Landkreis;248,1;53,0;62,6
+2010;12071;      Spree-Neiße, Landkreis;171,9;49,4;76,1
+2010;12072;      Teltow-Fläming, Landkreis;293,5;36,8;112,1
+2010;12073;      Uckermark, Landkreis;346,3;27,6;46,0
+2010;13;  Mecklenburg-Vorpommern;285,9;40,3;56,7
+2010;13001;      Kreisfreie Stadt Greifswald, Hansestadt;124,0;39,2;.
+2010;13002;      Kreisfreie Stadt Neubrandenburg, Stadt;90,3;.;.
+2010;13003;      Kreisfreie Stadt Rostock, Hansestadt;142,2;.;.
+2010;13004;      Kreisfreie Stadt Schwerin, Landeshauptstadt;26,5;55,3;.
+2010;13005;      Kreisfreie Stadt Stralsund, Hansestadt;.;.;.
+2010;13006;      Kreisfreie Stadt Wismar, Hansestadt;.;.;.
+2010;13051;      Landkreis Bad Doberan;252,1;40,1;73,4
+2010;13052;      Landkreis Demmin;349,3;32,3;46,3
+2010;13053;      Landkreis Güstrow;283,3;40,5;107,9
+2010;13054;      Landkreis Ludwigslust;218,1;53,5;65,7
+2010;13055;      Landkreis Mecklenburg-Strelitz;270,0;30,4;27,1
+2010;13056;      Landkreis Müritz;260,3;39,7;63,1
+2010;13057;      Landkreis Nordvorpommern;332,5;38,4;25,5
+2010;13058;      Landkreis Nordwestmecklenburg;280,1;31,2;99,3
+2010;13059;      Landkreis Ostvorpommern;308,4;35,4;21,6
+2010;13060;      Landkreis Parchim;305,2;44,8;76,3
+2010;13061;      Landkreis Rügen;289,3;25,7;15,0
+2010;13062;      Landkreis Uecker-Randow;381,0;73,8;18,7
+2010;13071;      Landkreis Mecklenburgische Seenplatte;-;-;-
+2010;13072;      Landkreis Rostock;-;-;-
+2010;13073;      Landkreis Vorpommern-Rügen;-;-;-
+2010;13074;      Landkreis Nordwestmecklenburg;-;-;-
+2010;13075;      Landkreis Vorpommern-Greifswald;-;-;-
+2010;13076;      Landkreis Ludwigslust-Parchim;-;-;-
+2010;14;  Sachsen;145,2;53,6;72,1
+2010;141;    Chemnitz, Regierungsbezirk;.;.;.
+2010;14161;      Chemnitz, Kreisfreie Stadt;.;.;.
+2010;14166;      Plauen, Kreisfreie Stadt;.;.;.
+2010;14167;      Zwickau, Kreisfreie Stadt;.;.;.
+2010;14171;      Annaberg, Landkreis;.;.;.
+2010;14173;      Chemnitzer Land, Landkreis;.;.;.
+2010;14177;      Freiberg, Landkreis;.;.;.
+2010;14178;      Vogtlandkreis;.;.;.
+2010;14181;      Mittlerer Erzgebirgskreis;.;.;.
+2010;14182;      Mittweida, Landkreis;.;.;.
+2010;14188;      Stollberg, Landkreis;.;.;.
+2010;14191;      Aue-Schwarzenberg, Landkreis;.;.;.
+2010;14193;      Zwickauer Land, Landkreis;.;.;.
+2010;142;    Dresden, Regierungsbezirk;.;.;.
+2010;14262;      Dresden, Kreisfreie Stadt;.;.;.
+2010;14263;      Görlitz, Kreisfreie Stadt;.;.;.
+2010;14264;      Hoyerswerda, Kreisfreie Stadt;.;.;.
+2010;14272;      Bautzen, Landkreis;.;.;.
+2010;14280;      Meißen, Landkreis;.;.;.
+2010;14284;      Niederschlesischer Oberlausitzkreis;.;.;.
+2010;14285;      Riesa-Großenhain, Landkreis;.;.;.
+2010;14286;      Löbau-Zittau, Landkreis;.;.;.
+2010;14287;      Sächsische Schweiz, Landkreis;.;.;.
+2010;14290;      Weißeritzkreis;.;.;.
+2010;14292;      Kamenz, Landkreis;.;.;.
+2010;143;    Leipzig, Regierungsbezirk;.;.;.
+2010;14365;      Leipzig, Kreisfreie Stadt;.;.;.
+2010;14374;      Delitzsch, Landkreis;.;.;.
+2010;14375;      Döbeln, Landkreis;.;.;.
+2010;14379;      Leipziger Land, Landkreis;.;.;.
+2010;14383;      Muldentalkreis;.;.;.
+2010;14389;      Torgau-Oschatz, Landkreis;.;.;.
+2010;145;    Chemnitz, NUTS 2-Region;116,4;73,0;66,6
+2010;14511;      Chemnitz, Stadt;91,2;75,9;13,1
+2010;14521;      Erzgebirgskreis;90,4;94,7;32,6
+2010;14522;      Mittelsachsen, Landkreis;154,7;62,8;80,5
+2010;14523;      Vogtlandkreis;101,1;72,4;51,6
+2010;14524;      Zwickau, Landkreis;105,1;73,7;95,2
+2010;146;    Dresden, NUTS 2-Region;152,0;49,3;68,3
+2010;14612;      Dresden, Stadt;37,4;37,7;11,0
+2010;14625;      Bautzen, Landkreis;168,5;51,1;87,5
+2010;14626;      Görlitz, Landkreis;173,9;50,6;36,5
+2010;14627;      Meißen, Landkreis;161,7;36,2;128,4
+2010;14628;      Sächsische Schweiz-Osterzgebirge, Landkreis;130,4;62,5;8,2
+2010;147;    Leipzig, NUTS 2-Region;197,5;33,9;85,7
+2010;14713;      Leipzig, Stadt;190,8;24,5;1,9
+2010;14729;      Leipzig, Landkreis;175,9;39,6;61,3
+2010;14730;      Nordsachsen, Landkreis;218,1;30,2;110,3
+2010;15;  Sachsen-Anhalt;278,0;28,7;92,3
+2010;15001;      Dessau-Roßlau, Kreisfreie Stadt;172,2;.;27,5
+2010;15002;      Halle (Saale), Kreisfreie Stadt;184,9;.;.
+2010;15003;      Magdeburg, Kreisfreie Stadt;237,6;.;.
+2010;15081;      Altmarkkreis Salzwedel;256,8;51,3;60,6
+2010;15082;      Anhalt-Bitterfeld, Landkreis;293,4;21,3;53,5
+2010;15083;      Börde, Landkreis;274,4;23,8;118,5
+2010;15084;      Burgenlandkreis;236,5;24,1;80,2
+2010;15085;      Harz, Landkreis;299,1;17,4;66,1
+2010;15086;      Jerichower Land, Landkreis;257,5;35,8;191,1
+2010;15087;      Mansfeld-Südharz, Landkreis;281,8;13,0;71,2
+2010;15088;      Saalekreis;334,2;18,1;164,9
+2010;15089;      Salzlandkreis;349,7;9,2;91,5
+2010;15090;      Stendal, Landkreis;245,2;45,9;48,7
+2010;15091;      Wittenberg, Landkreis;319,4;43,2;104,3
+2010;151;    Dessau, Stat. Region;.;.;.
+2010;15101;      Dessau, Kreisfreie Stadt;.;.;.
+2010;15151;      Anhalt-Zerbst, Kreis;.;.;.
+2010;15153;      Bernburg, Kreis;.;.;.
+2010;15154;      Bitterfeld, Kreis;.;.;.
+2010;15159;      Köthen, Kreis;.;.;.
+2010;15171;      Wittenberg, Kreis;.;.;.
+2010;152;    Halle, Stat. Region;.;.;.
+2010;15202;      Halle (Saale), Kreisfreie Stadt;.;.;.
+2010;15256;      Burgenlandkreis;.;.;.
+2010;15260;      Mansfelder Land, Kreis;.;.;.
+2010;15261;      Merseburg-Querfurt, Kreis;.;.;.
+2010;15265;      Saalkreis;.;.;.
+2010;15266;      Sangerhausen, Kreis;.;.;.
+2010;15268;      Weißenfels, Kreis;.;.;.
+2010;153;    Magdeburg, Stat. Region;.;.;.
+2010;15303;      Magdeburg, Kreisfreie Stadt;.;.;.
+2010;15352;      Aschersleben-Staßfurt, Kreis;.;.;.
+2010;15355;      Bördekreis;.;.;.
+2010;15357;      Halberstadt, Kreis;.;.;.
+2010;15358;      Jerichower Land, Kreis;.;.;.
+2010;15362;      Ohrekreis;.;.;.
+2010;15363;      Stendal, Kreis;.;.;.
+2010;15364;      Quedlinburg, Kreis;.;.;.
+2010;15367;      Schönebeck, Kreis;.;.;.
+2010;15369;      Wernigerode, Kreis;.;.;.
+2010;15370;      Altmarkkreis Salzwedel, Kreis;.;.;.
+2010;16;  Thüringen;215,1;42,8;96,1
+2010;16051;      Erfurt, krsfr. Stadt;169,1;15,1;4,3
+2010;16052;      Gera, krsfr. Stadt;78,9;31,0;39,7
+2010;16053;      Jena, krsfr. Stadt;62,3;.;4,7
+2010;16054;      Suhl, krsfr. Stadt;87,0;.;.
+2010;16055;      Weimar, krsfr. Stadt;160,9;.;.
+2010;16056;      Eisenach, krsfr. Stadt;216,5;29,6;2,5
+2010;16061;      Eichsfeld, Kreis;178,4;42,5;85,8
+2010;16062;      Nordhausen, Kreis;274,4;28,2;244,1
+2010;16063;      Wartburgkreis;170,2;67,2;30,3
+2010;16064;      Unstrut-Hainich-Kreis;272,4;20,3;80,6
+2010;16065;      Kyffhäuserkreis;304,3;12,2;78,4
+2010;16066;      Schmalkalden-Meiningen, Kreis;194,0;57,7;133,3
+2010;16067;      Gotha, Kreis;324,6;39,2;53,2
+2010;16068;      Sömmerda, Kreis;274,3;24,2;74,8
+2010;16069;      Hildburghausen, Kreis;319,2;66,1;83,5
+2010;16070;      Ilm-Kreis;237,0;39,9;44,1
+2010;16071;      Weimarer Land, Kreis;270,4;26,6;143,3
+2010;16072;      Sonneberg, Kreis;133,1;90,9;.
+2010;16073;      Saalfeld-Rudolstadt, Kreis;207,0;71,5;75,0
+2010;16074;      Saale-Holzland-Kreis;197,0;56,3;218,6
+2010;16075;      Saale-Orla-Kreis;184,6;74,9;83,7
+2010;16076;      Greiz, Kreis;137,0;64,2;127,6
+2010;16077;      Altenburger Land, Kreis;180,8;36,2;96,3
+__________
+"© Statistische Ämter des Bundes und der Länder, Deutschland, 2017.
+Dieses Werk ist lizensiert unter der Datenlizenz Deutschland
+- Namensnennung - Version 2.0."
+Stand: 10.10.2017 / 12:28:52

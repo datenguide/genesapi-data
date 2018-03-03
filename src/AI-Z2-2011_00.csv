@@ -1,0 +1,538 @@
+GENESIS-Tabelle: AI-Z2-2011
+Regionalatlas Deutschland;;;;;;
+Indikatoren des Themenbereichs "Zensus 2011";;;;;;
+Erwerbstätigkeit;;;;;;
+Regionalatlas Deutschland;;;;;;
+;;;Erwerbslosenquote;Erwerbstätigenquote;Erwerbstätigenquote Frauen;Erwerbstätigenquote Männer
+;;;Prozent;Prozent;Prozent;Prozent
+09.05.2011;DG;Deutschland;4,8;75,5;71,3;79,8
+09.05.2011;01;  Schleswig-Holstein;4,7;75,5;71,2;79,8
+09.05.2011;01001;      Flensburg, Kreisfreie Stadt;6,7;72,0;68,2;75,8
+09.05.2011;01002;      Kiel, Landeshauptstadt, Kreisfreie Stadt;7,7;70,0;67,0;73,2
+09.05.2011;01003;      Lübeck, Hansestadt, Kreisfreie Stadt;7,4;70,9;68,4;73,5
+09.05.2011;01004;      Neumünster, Kreisfreie Stadt;7,1;71,9;65,8;77,9
+09.05.2011;01051;      Dithmarschen, Landkreis;5,7;71,9;66,5;77,5
+09.05.2011;01053;      Herzogtum Lauenburg, Landkreis;4,0;77,7;73,3;82,1
+09.05.2011;01054;      Nordfriesland, Landkreis;3,6;77,8;73,8;81,9
+09.05.2011;01055;      Ostholstein, Landkreis;4,0;76,5;72,8;80,2
+09.05.2011;01056;      Pinneberg, Landkreis;3,8;78,0;73,9;82,3
+09.05.2011;01057;      Plön, Landkreis;4,2;76,3;71,5;81,3
+09.05.2011;01058;      Rendsburg-Eckernförde, Landkreis;3,9;76,0;71,7;80,3
+09.05.2011;01059;      Schleswig-Flensburg, Landkreis;4,4;75,4;70,7;80,2
+09.05.2011;01060;      Segeberg, Landkreis;3,4;78,2;73,7;83,0
+09.05.2011;01061;      Steinburg, Landkreis;5,0;74,9;69,5;80,4
+09.05.2011;01062;      Stormarn, Landkreis;3,0;79,1;74,0;84,3
+09.05.2011;02;  Hamburg;5,8;75,5;72,5;78,5
+09.05.2011;03;  Niedersachsen;4,5;74,8;70,1;79,6
+09.05.2011;031;    Braunschweig, Stat. Region;5,3;72,7;68,0;77,2
+09.05.2011;03101;      Braunschweig, Kreisfreie Stadt;6,1;73,7;69,4;77,9
+09.05.2011;03102;      Salzgitter, Kreisfreie Stadt;7,3;66,4;58,8;73,9
+09.05.2011;03103;      Wolfsburg, Kreisfreie Stadt;4,7;74,1;69,2;78,8
+09.05.2011;03151;      Gifhorn, Landkreis;4,0;74,2;67,2;81,1
+09.05.2011;03152;      Göttingen, Landkreis;5,4;71,8;69,5;74,1
+09.05.2011;03153;      Goslar, Landkreis;6,6;72,1;69,0;75,2
+09.05.2011;03154;      Helmstedt, Landkreis;4,8;71,9;66,3;77,4
+09.05.2011;03155;      Northeim, Landkreis;4,9;73,5;70,3;76,6
+09.05.2011;03156;      Osterode am Harz, Landkreis;5,7;71,7;65,8;77,6
+09.05.2011;03157;      Peine, Landkreis;4,6;72,5;66,7;78,3
+09.05.2011;03158;      Wolfenbüttel, Landkreis;4,6;74,8;69,8;79,7
+09.05.2011;03159;      Göttingen, Landkreis;-;-;-;-
+09.05.2011;032;    Hannover, Stat. Region;5,1;74,5;70,6;78,4
+09.05.2011;03241;      Region Hannover, Landkreis;5,3;74,7;71,4;78,1
+09.05.2011;03241001;      Hannover, Landeshauptstadt;6,4;73,6;71,1;76,1
+09.05.2011;03251;      Diepholz, Landkreis;3,2;78,2;73,0;83,3
+09.05.2011;03252;      Hameln-Pyrmont, Landkreis;5,4;73,0;69,0;77,1
+09.05.2011;03254;      Hildesheim, Landkreis;5,9;72,4;68,2;76,7
+09.05.2011;03255;      Holzminden, Landkreis;6,4;70,1;64,6;75,5
+09.05.2011;03256;      Nienburg (Weser), Landkreis;4,5;75,3;70,0;80,4
+09.05.2011;03257;      Schaumburg, Landkreis;5,1;74,1;70,3;77,9
+09.05.2011;033;    Lüneburg, Stat. Region;4,1;76,0;71,0;81,1
+09.05.2011;03351;      Celle, Landkreis;5,2;74,6;70,8;78,3
+09.05.2011;03352;      Cuxhaven, Landkreis;3,9;74,4;68,8;80,1
+09.05.2011;03353;      Harburg, Landkreis;4,0;77,9;72,9;82,9
+09.05.2011;03354;      Lüchow-Dannenberg, Landkreis;4,3;71,6;68,0;75,1
+09.05.2011;03355;      Lüneburg, Landkreis;4,4;75,7;71,5;80,1
+09.05.2011;03356;      Osterholz, Landkreis;3,7;77,8;71,9;83,7
+09.05.2011;03357;      Rotenburg (Wümme), Landkreis;3,6;78,4;73,6;82,9
+09.05.2011;03358;      Heidekreis, Landkreis;4,2;76,7;71,9;81,4
+09.05.2011;03359;      Stade, Landkreis;3,9;76,0;69,2;82,7
+09.05.2011;03360;      Uelzen, Landkreis;5,0;73,2;68,6;77,9
+09.05.2011;03361;      Verden, Landkreis;3,6;76,0;71,0;81,2
+09.05.2011;034;    Weser-Ems, Stat. Region;3,7;75,7;70,3;81,1
+09.05.2011;03401;      Delmenhorst, Kreisfreie Stadt;6,6;71,2;65,5;76,7
+09.05.2011;03402;      Emden, Kreisfreie Stadt;5,1;70,6;64,7;76,3
+09.05.2011;03403;      Oldenburg (Oldenburg), Kreisfreie Stadt;4,7;75,8;72,5;79,2
+09.05.2011;03404;      Osnabrück, Kreisfreie Stadt;4,5;75,1;73,1;77,1
+09.05.2011;03405;      Wilhelmshaven, Kreisfreie Stadt;7,8;68,9;64,9;72,9
+09.05.2011;03451;      Ammerland, Landkreis;3,5;77,6;73,0;82,3
+09.05.2011;03452;      Aurich, Landkreis;4,2;69,9;62,8;77,1
+09.05.2011;03453;      Cloppenburg, Landkreis;3,4;76,4;69,3;82,8
+09.05.2011;03454;      Emsland, Landkreis;2,5;77,4;71,2;83,4
+09.05.2011;03455;      Friesland, Landkreis;4,4;74,9;69,8;80,1
+09.05.2011;03456;      Grafschaft Bentheim, Landkreis;2,6;77,8;72,4;83,0
+09.05.2011;03457;      Leer, Landkreis;4,7;71,4;64,3;78,3
+09.05.2011;03458;      Oldenburg, Landkreis;2,9;78,6;73,3;83,9
+09.05.2011;03459;      Osnabrück, Landkreis;3,0;79,3;74,1;84,4
+09.05.2011;03460;      Vechta, Landkreis;2,0;80,3;74,9;85,4
+09.05.2011;03461;      Wesermarsch, Landkreis;4,5;73,7;67,0;80,2
+09.05.2011;03462;      Wittmund, Landkreis;3,2;72,7;67,0;78,3
+09.05.2011;04;  Bremen;6,8;70,9;67,6;74,2
+09.05.2011;04011;      Bremen, Kreisfreie Stadt;6,3;71,6;68,5;74,7
+09.05.2011;04012;      Bremerhaven, Kreisfreie Stadt;9,9;67,3;62,7;71,7
+09.05.2011;05;  Nordrhein-Westfalen;5,2;72,7;67,6;77,8
+09.05.2011;051;    Düsseldorf, Regierungsbezirk;5,8;72,0;66,8;77,3
+09.05.2011;05111;      Düsseldorf, Kreisfreie Stadt;5,4;74,9;70,3;79,7
+09.05.2011;05112;      Duisburg, Kreisfreie Stadt;9,0;65,6;59,0;72,0
+09.05.2011;05113;      Essen, Kreisfreie Stadt;7,0;69,6;65,4;73,9
+09.05.2011;05114;      Krefeld, Kreisfreie Stadt;6,2;71,5;65,6;77,5
+09.05.2011;05116;      Mönchengladbach, Kreisfreie Stadt;7,4;69,1;64,4;73,8
+09.05.2011;05117;      Mülheim an der Ruhr, Kreisfreie Stadt;4,7;72,1;67,2;77,3
+09.05.2011;05119;      Oberhausen, Kreisfreie Stadt;6,7;67,2;61,0;73,4
+09.05.2011;05120;      Remscheid, Kreisfreie Stadt;5,8;72,4;66,4;78,5
+09.05.2011;05122;      Solingen, Kreisfreie Stadt;5,0;74,6;69,5;79,7
+09.05.2011;05124;      Wuppertal, Kreisfreie Stadt;6,5;70,4;66,4;74,5
+09.05.2011;05154;      Kleve, Kreis;3,7;76,1;70,2;82,0
+09.05.2011;05158;      Mettmann, Kreis;4,4;76,2;71,8;80,9
+09.05.2011;05162;      Rhein-Kreis Neuss;4,3;74,0;68,1;80,1
+09.05.2011;05166;      Viersen, Kreis;4,4;74,8;69,4;80,2
+09.05.2011;05170;      Wesel, Kreis;5,0;72,0;66,2;78,0
+09.05.2011;053;    Köln, Regierungsbezirk;5,0;73,2;68,4;78,1
+09.05.2011;05314;      Bonn, Kreisfreie Stadt;5,0;74,3;70,7;78,1
+09.05.2011;05315;      Köln, Kreisfreie Stadt;6,4;72,8;68,9;76,8
+09.05.2011;05316;      Leverkusen, Kreisfreie Stadt;4,9;72,7;67,6;77,9
+09.05.2011;05334;      Städteregion Aachen (einschl. Stadt Aachen);5,5;70,9;66,6;75,0
+09.05.2011;05334002;      Aachen, krfr. Stadt;6,4;69,6;67,4;71,5
+09.05.2011;05354;      Aachen, Kreis;-;-;-;-
+09.05.2011;05358;      Düren, Kreis;5,4;70,8;65,1;76,5
+09.05.2011;05362;      Rhein-Erft-Kreis;4,3;73,5;67,5;79,8
+09.05.2011;05366;      Euskirchen, Kreis;4,1;73,3;68,3;78,3
+09.05.2011;05370;      Heinsberg, Kreis;4,4;71,7;65,7;77,8
+09.05.2011;05374;      Oberbergischer Kreis;4,3;74,5;67,9;81,0
+09.05.2011;05378;      Rheinisch-Bergischer Kreis;4,0;76,2;71,6;81,0
+09.05.2011;05382;      Rhein-Sieg-Kreis;3,8;75,4;70,4;80,5
+09.05.2011;055;    Münster, Regierungsbezirk;4,6;72,8;67,9;77,8
+09.05.2011;05512;      Bottrop, Kreisfreie Stadt;5,7;69,5;64,3;74,9
+09.05.2011;05513;      Gelsenkirchen, Kreisfreie Stadt;9,9;61,4;55,0;67,6
+09.05.2011;05515;      Münster, Kreisfreie Stadt;4,6;75,7;72,9;78,6
+09.05.2011;05554;      Borken, Kreis;2,6;78,2;72,2;84,0
+09.05.2011;05558;      Coesfeld, Kreis;2,5;77,5;72,6;82,4
+09.05.2011;05562;      Recklinghausen, Kreis;6,3;67,9;63,0;72,7
+09.05.2011;05566;      Steinfurt, Kreis;2,9;77,0;72,4;81,5
+09.05.2011;05570;      Warendorf, Kreis;3,3;75,6;70,0;81,1
+09.05.2011;057;    Detmold, Regierungsbezirk;4,5;74,7;69,8;79,5
+09.05.2011;05711;      Bielefeld, Kreisfreie Stadt;5,7;71,3;67,1;75,6
+09.05.2011;05754;      Gütersloh, Kreis;3,4;77,1;71,4;82,6
+09.05.2011;05758;      Herford, Kreis;4,7;75,2;70,8;79,5
+09.05.2011;05762;      Höxter, Kreis;3,5;74,8;69,6;79,8
+09.05.2011;05766;      Lippe, Kreis;4,8;74,6;69,8;79,4
+09.05.2011;05770;      Minden-Lübbecke, Kreis;4,8;74,3;69,2;79,3
+09.05.2011;05774;      Paderborn, Kreis;4,1;75,7;70,8;80,4
+09.05.2011;059;    Arnsberg, Regierungsbezirk;5,5;71,7;66,3;77,1
+09.05.2011;05911;      Bochum, Kreisfreie Stadt;6,5;70,4;65,4;75,5
+09.05.2011;05913;      Dortmund, Kreisfreie Stadt;7,9;67,5;63,3;71,7
+09.05.2011;05914;      Hagen, Kreisfreie Stadt;6,8;70,5;64,0;77,1
+09.05.2011;05915;      Hamm, Kreisfreie Stadt;6,5;68,5;63,9;73,1
+09.05.2011;05916;      Herne, Kreisfreie Stadt;7,8;65,5;58,5;72,4
+09.05.2011;05954;      Ennepe-Ruhr-Kreis;4,9;73,2;69,0;77,5
+09.05.2011;05958;      Hochsauerlandkreis;3,2;77,1;71,6;82,3
+09.05.2011;05962;      Märkischer Kreis;4,7;73,4;67,0;79,8
+09.05.2011;05966;      Olpe, Kreis;3,0;77,4;70,1;84,3
+09.05.2011;05970;      Siegen-Wittgenstein, Kreis;3,4;75,5;68,9;82,1
+09.05.2011;05974;      Soest, Kreis;3,9;75,5;70,6;80,4
+09.05.2011;05978;      Unna, Kreis;6,1;69,1;63,8;74,4
+09.05.2011;06;  Hessen;3,9;75,3;70,5;80,0
+09.05.2011;064;    Darmstadt, Regierungsbezirk;4,0;75,7;71,1;80,5
+09.05.2011;06411;      Darmstadt, Kreisfreie Stadt;5,3;73,0;70,5;75,4
+09.05.2011;06412;      Frankfurt am Main, Kreisfreie Stadt;4,8;75,3;71,3;79,3
+09.05.2011;06413;      Offenbach am Main, Kreisfreie Stadt;6,1;70,0;63,6;76,5
+09.05.2011;06414;      Wiesbaden, Landeshauptstadt, Kreisfreie Stadt;4,1;75,0;70,6;79,8
+09.05.2011;06431;      Bergstraße, Landkreis;3,4;76,5;71,3;81,8
+09.05.2011;06432;      Darmstadt-Dieburg, Landkreis;3,2;76,7;71,6;81,9
+09.05.2011;06433;      Groß-Gerau, Landkreis;3,9;75,4;69,9;81,0
+09.05.2011;06434;      Hochtaunuskreis;3,4;76,9;71,9;82,3
+09.05.2011;06435;      Main-Kinzig-Kreis;3,6;75,4;70,1;80,8
+09.05.2011;06436;      Main-Taunus-Kreis;3,0;78,0;73,5;82,7
+09.05.2011;06437;      Odenwaldkreis;4,0;75,0;70,8;79,1
+09.05.2011;06438;      Offenbach, Landkreis;4,1;75,9;71,0;81,0
+09.05.2011;06439;      Rheingau-Taunus-Kreis;2,9;78,0;74,2;81,9
+09.05.2011;06440;      Wetteraukreis;3,7;76,2;71,5;81,0
+09.05.2011;065;    Gießen, Regierungsbezirk;4,1;74,4;69,7;79,2
+09.05.2011;06531;      Gießen, Landkreis;5,1;73,3;69,8;76,8
+09.05.2011;06532;      Lahn-Dill-Kreis;3,6;75,1;69,2;80,9
+09.05.2011;06533;      Limburg-Weilburg, Landkreis;3,5;74,4;68,5;80,1
+09.05.2011;06534;      Marburg-Biedenkopf, Landkreis;4,2;73,8;69,4;78,3
+09.05.2011;06535;      Vogelsbergkreis;3,4;77,4;72,9;81,7
+09.05.2011;066;    Kassel, Regierungsbezirk;3,8;74,6;69,7;79,4
+09.05.2011;06611;      Kassel, Kreisfreie Stadt;6,3;70,2;66,5;73,9
+09.05.2011;06631;      Fulda, Landkreis;2,7;76,3;70,7;82,1
+09.05.2011;06632;      Hersfeld-Rotenburg, Landkreis;3,0;73,6;68,4;78,7
+09.05.2011;06633;      Kassel, Landkreis;3,0;76,0;71,2;80,8
+09.05.2011;06634;      Schwalm-Eder-Kreis;4,1;75,2;70,0;80,1
+09.05.2011;06635;      Waldeck-Frankenberg, Landkreis;3,2;76,3;71,4;81,2
+09.05.2011;06636;      Werra-Meißner-Kreis;4,3;73,1;68,8;77,3
+09.05.2011;07;  Rheinland-Pfalz;3,9;76,2;71,3;81,0
+09.05.2011;071;    Koblenz, Stat. Region;3,6;76,6;71,6;81,6
+09.05.2011;07111;      Koblenz, Kreisfreie Stadt;3,4;76,6;72,2;81,2
+09.05.2011;07131;      Ahrweiler, Landkreis;3,4;77,4;72,4;82,3
+09.05.2011;07132;      Altenkirchen (Westerwald), Landkreis;3,6;75,4;69,4;81,2
+09.05.2011;07133;      Bad Kreuznach, Landkreis;4,1;75,3;70,7;80,0
+09.05.2011;07134;      Birkenfeld, Landkreis;5,1;74,7;69,5;79,6
+09.05.2011;07135;      Cochem-Zell, Landkreis;2,5;79,9;75,7;83,9
+09.05.2011;07137;      Mayen-Koblenz, Landkreis;3,2;77,3;72,8;81,8
+09.05.2011;07138;      Neuwied, Landkreis;4,4;75,2;69,9;80,4
+09.05.2011;07140;      Rhein-Hunsrück-Kreis;2,6;78,4;73,1;83,5
+09.05.2011;07141;      Rhein-Lahn-Kreis;3,4;77,1;72,5;81,6
+09.05.2011;07143;      Westerwaldkreis;3,2;77,0;71,4;82,4
+09.05.2011;072;    Trier, Stat. Region;2,9;78,8;74,2;83,3
+09.05.2011;07211;      Trier, Kreisfreie Stadt;4,3;76,2;73,2;79,4
+09.05.2011;07231;      Bernkastel-Wittlich, Landkreis;2,5;79,8;74,9;84,6
+09.05.2011;07232;      Eifelkreis Bitburg-Prüm;2,3;79,9;75,4;84,3
+09.05.2011;07233;      Vulkaneifel, Landkreis;2,8;77,5;71,6;83,2
+09.05.2011;07235;      Trier-Saarburg, Landkreis;2,4;79,7;74,8;84,4
+09.05.2011;073;    Rheinhessen-Pfalz, Stat. Region;4,4;75,1;70,3;80,1
+09.05.2011;07311;      Frankenthal (Pfalz), Kreisfreie Stadt;5,6;73,0;66,3;79,9
+09.05.2011;07312;      Kaiserslautern, Kreisfreie Stadt;8,0;68,4;66,3;70,4
+09.05.2011;07313;      Landau in der Pfalz, Kreisfreie Stadt;3,2;76,8;72,7;81,1
+09.05.2011;07314;      Ludwigshafen am Rhein, Kreisfreie Stadt;7,0;69,4;62,0;76,7
+09.05.2011;07315;      Mainz, Kreisfreie Stadt;5,1;74,4;70,9;78,2
+09.05.2011;07316;      Neustadt an der Weinstraße, Kreisfreie Stadt;4,7;75,6;71,8;79,6
+09.05.2011;07317;      Pirmasens, Kreisfreie Stadt;9,5;66,2;63,8;68,6
+09.05.2011;07318;      Speyer, Kreisfreie Stadt;4,3;75,5;72,5;78,8
+09.05.2011;07319;      Worms, Kreisfreie Stadt;4,4;73,3;67,0;79,9
+09.05.2011;07320;      Zweibrücken, Kreisfreie Stadt;5,9;71,2;66,5;75,8
+09.05.2011;07331;      Alzey-Worms, Landkreis;3,6;77,7;72,6;82,7
+09.05.2011;07332;      Bad Dürkheim, Landkreis;3,5;76,2;70,7;81,7
+09.05.2011;07333;      Donnersbergkreis;4,0;74,9;69,0;80,6
+09.05.2011;07334;      Germersheim, Landkreis;3,2;77,4;71,1;83,6
+09.05.2011;07335;      Kaiserslautern, Landkreis;4,3;74,9;70,0;79,8
+09.05.2011;07336;      Kusel, Landkreis;4,2;74,5;68,6;80,1
+09.05.2011;07337;      Südliche Weinstraße, Landkreis;2,7;78,7;74,8;82,6
+09.05.2011;07338;      Rhein-Pfalz-Kreis;2,6;77,0;71,1;82,9
+09.05.2011;07339;      Mainz-Bingen, Landkreis;3,5;79,7;75,8;83,6
+09.05.2011;07340;      Südwestpfalz, Landkreis;3,5;76,3;71,0;81,5
+09.05.2011;08;  Baden-Württemberg, Land;3,2;78,1;73,5;82,6
+09.05.2011;081;    Stuttgart, Regierungsbezirk;3,3;78,0;72,9;83,0
+09.05.2011;08111;      Stuttgart, Landeshauptstadt, Stadtkreis;4,4;76,4;72,7;80,0
+09.05.2011;08115;      Böblingen, Landkreis;3,1;77,1;71,1;83,2
+09.05.2011;08116;      Esslingen, Landkreis;3,2;78,9;74,2;83,7
+09.05.2011;08117;      Göppingen, Landkreis;3,8;77,6;72,1;82,9
+09.05.2011;08118;      Ludwigsburg, Landkreis;3,0;78,6;73,1;84,0
+09.05.2011;08119;      Rems-Murr-Kreis, Landkreis;3,3;78,8;74,1;83,4
+09.05.2011;08121;      Heilbronn, Stadtkreis;4,4;77,0;71,6;82,2
+09.05.2011;08125;      Heilbronn, Landkreis;2,7;78,5;72,8;84,0
+09.05.2011;08126;      Hohenlohekreis, Landkreis;2,3;80,3;75,3;85,0
+09.05.2011;08127;      Schwäbisch Hall, Landkreis;2,6;79,1;73,9;84,0
+09.05.2011;08128;      Main-Tauber-Kreis, Landkreis;2,2;78,5;73,6;83,1
+09.05.2011;08135;      Heidenheim, Landkreis;3,7;75,4;70,4;80,3
+09.05.2011;08136;      Ostalbkreis, Landkreis;3,0;78,0;72,0;83,9
+09.05.2011;082;    Karlsruhe, Regierungsbzirk;3,5;76,8;72,3;81,2
+09.05.2011;08211;      Baden-Baden, Stadtkreis;3,3;78,4;75,4;81,6
+09.05.2011;08212;      Karlsruhe, Stadtkreis;4,3;75,7;73,9;77,2
+09.05.2011;08215;      Karlsruhe, Landkreis;2,7;78,3;73,1;83,4
+09.05.2011;08216;      Rastatt, Landkreis;2,6;80,0;74,8;85,2
+09.05.2011;08221;      Heidelberg, Stadtkreis;4,1;71,6;67,7;75,7
+09.05.2011;08222;      Mannheim, Stadtkreis;5,3;72,8;67,9;77,7
+09.05.2011;08225;      Neckar-Odenwald-Kreis, Landkreis;2,8;77,1;71,7;82,3
+09.05.2011;08226;      Rhein-Neckar-Kreis, Landkreis;3,5;77,4;73,0;81,9
+09.05.2011;08231;      Pforzheim, Stadtkreis;5,8;71,4;65,9;77,0
+09.05.2011;08235;      Calw, Landkreis;3,0;78,1;73,6;82,5
+09.05.2011;08236;      Enzkreis, Landkreis;2,5;79,3;74,2;84,4
+09.05.2011;08237;      Freudenstadt, Landkreis;2,7;80,1;75,4;84,7
+09.05.2011;083;    Freiburg, Regierungsbezirk;3,0;79,0;75,1;83,0
+09.05.2011;08311;      Freiburg im Breisgau, Stadtkreis;4,9;75,9;73,8;78,1
+09.05.2011;08315;      Breisgau-Hochschwarzwald, Landkreis;2,5;80,5;77,0;84,1
+09.05.2011;08316;      Emmendingen, Landkreis;2,4;80,7;77,8;83,5
+09.05.2011;08317;      Ortenaukreis, Landkreis;2,6;80,0;75,6;84,3
+09.05.2011;08325;      Rottweil, Landkreis;2,6;80,1;75,6;84,5
+09.05.2011;08326;      Schwarzwald-Baar-Kreis, Landkreis;2,9;78,1;73,7;82,5
+09.05.2011;08327;      Tuttlingen, Landkreis;2,9;79,8;74,0;85,5
+09.05.2011;08335;      Konstanz, Landkreis;3,2;77,7;74,5;81,0
+09.05.2011;08336;      Lörrach, Landkreis;3,5;78,9;74,7;83,3
+09.05.2011;08337;      Waldshut, Landkreis;2,9;78,6;73,6;83,6
+09.05.2011;084;    Tübingen, Regierungsbezirk;2,6;79,1;74,6;83,5
+09.05.2011;08415;      Reutlingen, Landkreis;3,2;78,5;74,3;82,6
+09.05.2011;08416;      Tübingen, Landkreis;2,9;76,3;73,0;79,8
+09.05.2011;08417;      Zollernalbkreis, Landkreis;3,3;77,0;72,1;81,8
+09.05.2011;08421;      Ulm, Stadtkreis;3,2;77,3;73,3;81,5
+09.05.2011;08425;      Alb-Donau-Kreis, Landkreis;2,0;80,4;74,9;85,7
+09.05.2011;08426;      Biberach, Landkreis;1,9;80,5;75,3;85,4
+09.05.2011;08435;      Bodenseekreis, Landkreis;2,2;80,0;74,9;85,2
+09.05.2011;08436;      Ravensburg, Landkreis;2,3;81,5;77,5;85,5
+09.05.2011;08437;      Sigmaringen, Landkreis;3,2;79,3;74,4;84,0
+09.05.2011;09;  Bayern;2,9;78,9;74,2;83,6
+09.05.2011;091;    Oberbayern, Regierungsbezirk;2,7;80,3;76,0;84,6
+09.05.2011;09161;      Ingolstadt;3,1;78,6;71,7;85,2
+09.05.2011;09162;      München, Landeshauptstadt;3,4;80,1;77,1;83,1
+09.05.2011;09163;      Rosenheim;4,1;78,0;73,8;82,3
+09.05.2011;09171;      Altötting, Landkreis;2,7;78,4;72,5;84,4
+09.05.2011;09172;      Berchtesgadener Land, Landkreis;2,5;81,1;76,5;85,7
+09.05.2011;09173;      Bad Tölz-Wolfratshausen, Landkreis;2,4;81,1;76,9;85,4
+09.05.2011;09174;      Dachau, Landkreis;1,9;82,7;77,8;87,5
+09.05.2011;09175;      Ebersberg, Landkreis;2,4;81,4;76,9;86,1
+09.05.2011;09176;      Eichstätt, Landkreis;1,8;78,9;71,4;86,0
+09.05.2011;09177;      Erding, Landkreis;2,0;83,3;78,1;88,5
+09.05.2011;09178;      Freising, Landkreis;1,9;82,0;77,4;86,5
+09.05.2011;09179;      Fürstenfeldbruck, Landkreis;2,6;80,4;76,6;84,4
+09.05.2011;09180;      Garmisch-Partenkirchen, Landkreis;2,4;78,6;74,9;82,4
+09.05.2011;09181;      Landsberg am Lech, Landkreis;2,3;80,4;75,3;85,5
+09.05.2011;09182;      Miesbach, Landkreis;2,0;81,4;78,1;84,7
+09.05.2011;09183;      Mühldorf a.Inn, Landkreis;3,1;79,0;73,4;84,5
+09.05.2011;09184;      München, Landkreis;2,3;80,0;75,4;84,7
+09.05.2011;09185;      Neuburg-Schrobenhausen, Landkreis;2,0;79,9;73,7;85,8
+09.05.2011;09186;      Pfaffenhofen a.d.Ilm, Landkreis;2,3;80,0;73,1;86,5
+09.05.2011;09187;      Rosenheim, Landkreis;2,2;80,2;75,8;84,7
+09.05.2011;09188;      Starnberg, Landkreis;2,7;80,2;75,9;84,6
+09.05.2011;09189;      Traunstein, Landkreis;2,5;79,7;74,8;84,8
+09.05.2011;09190;      Weilheim-Schongau, Landkreis;2,1;80,3;75,9;84,8
+09.05.2011;092;    Niederbayern, Regierungsbezirk;2,6;78,3;72,9;83,7
+09.05.2011;09261;      Landshut;3,6;75,7;71,2;80,2
+09.05.2011;09262;      Passau;5,2;70,1;67,9;72,5
+09.05.2011;09263;      Straubing;5,2;74,9;71,2;78,6
+09.05.2011;09271;      Deggendorf, Landkreis;2,5;78,6;72,6;84,5
+09.05.2011;09272;      Freyung-Grafenau, Landkreis;2,6;76,3;69,1;83,4
+09.05.2011;09273;      Kelheim, Landkreis;2,4;79,9;73,5;86,0
+09.05.2011;09274;      Landshut, Landkreis;2,2;80,8;75,5;85,8
+09.05.2011;09275;      Passau, Landkreis;2,3;78,7;72,9;84,5
+09.05.2011;09276;      Regen, Landkreis;2,8;77,1;72,2;81,7
+09.05.2011;09277;      Rottal-Inn, Landkreis;2,7;79,2;73,8;84,5
+09.05.2011;09278;      Straubing-Bogen, Landkreis;2,0;79,8;74,8;84,5
+09.05.2011;09279;      Dingolfing-Landau, Landkreis;1,9;79,3;73,3;84,9
+09.05.2011;093;    Oberpfalz, Regierungsbezirk;2,6;78,2;73,3;82,9
+09.05.2011;09361;      Amberg;5,3;75,8;72,1;79,3
+09.05.2011;09362;      Regensburg;3,9;74,1;71,0;77,4
+09.05.2011;09363;      Weiden i.d.OPf.;5,2;74,1;69,8;78,5
+09.05.2011;09371;      Amberg-Sulzbach, Landkreis;2,6;79,2;74,4;83,7
+09.05.2011;09372;      Cham, Landkreis;1,7;79,8;74,7;84,5
+09.05.2011;09373;      Neumarkt i.d.OPf., Landkreis;2,1;79,9;74,4;85,3
+09.05.2011;09374;      Neustadt a.d.Waldnaab, Landkreis;2,2;78,1;73,1;83,0
+09.05.2011;09375;      Regensburg, Landkreis;1,8;79,6;74,9;84,3
+09.05.2011;09376;      Schwandorf, Landkreis;2,4;79,2;73,4;84,6
+09.05.2011;09377;      Tirschenreuth, Landkreis;3,1;76,7;69,8;83,3
+09.05.2011;094;    Oberfranken, Regierungsbezirk;3,6;77,1;72,7;81,4
+09.05.2011;09461;      Bamberg;4,0;75,2;71,5;79,1
+09.05.2011;09462;      Bayreuth;5,1;70,6;67,5;74,0
+09.05.2011;09463;      Coburg;5,8;73,0;68,6;77,5
+09.05.2011;09464;      Hof;7,1;68,8;64,6;73,4
+09.05.2011;09471;      Bamberg, Landkreis;2,3;80,6;75,8;85,2
+09.05.2011;09472;      Bayreuth, Landkreis;2,9;79,6;75,9;83,1
+09.05.2011;09473;      Coburg, Landkreis;3,3;78,2;74,4;81,9
+09.05.2011;09474;      Forchheim, Landkreis;2,7;78,5;73,3;83,4
+09.05.2011;09475;      Hof, Landkreis;4,0;75,9;70,4;81,4
+09.05.2011;09476;      Kronach, Landkreis;2,7;78,0;73,2;82,7
+09.05.2011;09477;      Kulmbach, Landkreis;3,5;79,3;76,4;82,2
+09.05.2011;09478;      Lichtenfels, Landkreis;3,6;79,1;74,7;83,4
+09.05.2011;09479;      Wunsiedel i.Fichtelgebirge, Landkreis;4,3;74,3;70,0;78,6
+09.05.2011;095;    Mittelfranken, Regierungsbezirk;3,5;77,6;73,2;82,0
+09.05.2011;09561;      Ansbach;3,7;77,7;73,1;82,6
+09.05.2011;09562;      Erlangen;3,8;75,2;70,1;80,2
+09.05.2011;09563;      Fürth;4,8;77,4;74,7;80,2
+09.05.2011;09564;      Nürnberg;5,1;74,9;70,1;79,8
+09.05.2011;09565;      Schwabach;3,1;77,8;72,6;83,2
+09.05.2011;09571;      Ansbach, Landkreis;2,5;80,1;75,8;84,2
+09.05.2011;09572;      Erlangen-Höchstadt, Landkreis;2,0;79,4;74,3;84,5
+09.05.2011;09573;      Fürth, Landkreis;2,5;79,9;76,1;83,8
+09.05.2011;09574;      Nürnberger Land, Landkreis;2,4;79,0;75,5;82,5
+09.05.2011;09575;      Neustadt a.d.Aisch-Bad Windsheim, Landkreis;2,8;79,8;75,9;83,5
+09.05.2011;09576;      Roth, Landkreis;2,0;79,1;74,7;83,4
+09.05.2011;09577;      Weißenburg-Gunzenhausen, Landkreis;2,9;78,3;73,5;82,9
+09.05.2011;096;    Unterfranken, Regierungsbezirk;2,9;77,9;72,9;82,9
+09.05.2011;09661;      Aschaffenburg;3,6;78,4;74,6;82,3
+09.05.2011;09662;      Schweinfurt;6,0;72,3;65,0;79,8
+09.05.2011;09663;      Würzburg;4,5;73,2;69,6;77,0
+09.05.2011;09671;      Aschaffenburg, Landkreis;2,2;78,5;72,5;84,5
+09.05.2011;09672;      Bad Kissingen, Landkreis;2,6;76,7;71,2;82,2
+09.05.2011;09673;      Rhön-Grabfeld, Landkreis;3,0;78,8;73,9;83,7
+09.05.2011;09674;      Haßberge, Landkreis;2,7;78,6;72,4;84,5
+09.05.2011;09675;      Kitzingen, Landkreis;3,2;78,8;74,2;83,3
+09.05.2011;09676;      Miltenberg, Landkreis;3,4;77,4;72,3;82,2
+09.05.2011;09677;      Main-Spessart, Landkreis;2,4;78,8;73,4;83,9
+09.05.2011;09678;      Schweinfurt, Landkreis;2,8;79,8;74,7;84,6
+09.05.2011;09679;      Würzburg, Landkreis;1,6;80,3;76,7;84,0
+09.05.2011;097;    Schwaben, Regierungsbezirk;2,8;79,4;74,0;84,8
+09.05.2011;09761;      Augsburg;5,0;75,2;70,6;80,0
+09.05.2011;09762;      Kaufbeuren;4,4;76,6;70,4;82,8
+09.05.2011;09763;      Kempten (Allgäu);4,0;77,1;73,2;81,0
+09.05.2011;09764;      Memmingen;3,3;79,7;73,6;85,9
+09.05.2011;09771;      Aichach-Friedberg, Landkreis;2,1;80,8;76,0;85,4
+09.05.2011;09772;      Augsburg, Landkreis;2,5;79,6;73,9;85,2
+09.05.2011;09773;      Dillingen a.d.Donau, Landkreis;2,6;79,9;74,1;85,4
+09.05.2011;09774;      Günzburg, Landkreis;2,2;80,0;75,2;84,8
+09.05.2011;09775;      Neu-Ulm, Landkreis;2,4;78,7;73,1;84,3
+09.05.2011;09776;      Lindau (Bodensee), Landkreis;2,2;81,2;75,3;87,1
+09.05.2011;09777;      Ostallgäu, Landkreis;2,0;81,4;75,5;87,1
+09.05.2011;09778;      Unterallgäu, Landkreis;1,9;81,1;74,5;87,3
+09.05.2011;09779;      Donau-Ries, Landkreis;2,2;81,1;74,8;87,1
+09.05.2011;09780;      Oberallgäu, Landkreis;2,0;82,1;77,5;86,7
+09.05.2011;10;  Saarland;4,5;72,3;66,8;77,8
+09.05.2011;10041;      Saarbrücken, Regionalverband;5,9;70,2;65,5;74,8
+09.05.2011;10041100;      Saarbrücken, Landeshauptstadt;7,3;68,8;64,3;73,3
+09.05.2011;10042;      Merzig-Wadern, Landkreis;3,4;74,2;68,3;80,1
+09.05.2011;10043;      Neunkirchen, Landkreis;4,8;72,3;67,3;77,3
+09.05.2011;10044;      Saarlouis, Landkreis;4,0;72,5;65,0;80,1
+09.05.2011;10045;      Saarpfalz-Kreis;3,2;74,7;69,2;80,2
+09.05.2011;10046;      St. Wendel, Landkreis;3,2;73,9;69,5;78,1
+09.05.2011;11;  Berlin;8,7;70,4;68,5;72,4
+09.05.2011;12;  Brandenburg;6,5;77,3;75,6;78,9
+09.05.2011;12051;      Brandenburg an der Havel, Kreisfreie Stadt;9,5;76,0;74,9;77,0
+09.05.2011;12052;      Cottbus, Kreisfreie Stadt;7,7;73,9;73,1;74,8
+09.05.2011;12053;      Frankfurt (Oder), Kreisfreie Stadt;9,4;73,1;71,5;74,6
+09.05.2011;12054;      Potsdam, Kreisfreie Stadt;4,9;80,8;80,0;81,6
+09.05.2011;12060;      Barnim, Landkreis;5,4;78,4;77,2;79,6
+09.05.2011;12061;      Dahme-Spreewald, Landkreis;4,7;78,6;76,1;81,1
+09.05.2011;12062;      Elbe-Elster, Landkreis;9,4;74,6;71,2;77,6
+09.05.2011;12063;      Havelland, Landkreis;5,4;77,7;76,0;79,4
+09.05.2011;12064;      Märkisch-Oderland, Landkreis;7,0;77,0;76,0;78,0
+09.05.2011;12065;      Oberhavel, Landkreis;5,3;78,3;76,3;80,3
+09.05.2011;12066;      Oberspreewald-Lausitz, Landkreis;9,0;73,4;71,7;74,9
+09.05.2011;12067;      Oder-Spree, Landkreis;6,0;78,1;75,5;80,5
+09.05.2011;12068;      Ostprignitz-Ruppin, Landkreis;7,7;75,7;74,5;76,9
+09.05.2011;12069;      Potsdam-Mittelmark, Landkreis;3,8;81,4;79,6;83,1
+09.05.2011;12070;      Prignitz, Landkreis;9,0;74,2;71,3;77,0
+09.05.2011;12071;      Spree-Neiße, Landkreis;8,0;76,4;74,8;77,8
+09.05.2011;12072;      Teltow-Fläming, Landkreis;4,8;79,5;77,3;81,6
+09.05.2011;12073;      Uckermark, Landkreis;10,5;72,4;70,8;73,9
+09.05.2011;13;  Mecklenburg-Vorpommern;7,8;74,0;72,6;75,4
+09.05.2011;13001;      Kreisfreie Stadt Greifswald, Hansestadt;8,9;66,9;65,3;68,6
+09.05.2011;13002;      Kreisfreie Stadt Neubrandenburg, Stadt;10,9;71,8;70,2;73,4
+09.05.2011;13003;      Kreisfreie Stadt Rostock, Hansestadt;8,7;72,5;71,7;73,3
+09.05.2011;13004;      Kreisfreie Stadt Schwerin, Landeshauptstadt;7,8;74,7;74,6;74,8
+09.05.2011;13005;      Kreisfreie Stadt Stralsund, Hansestadt;8,7;68,9;69,2;68,6
+09.05.2011;13006;      Kreisfreie Stadt Wismar, Hansestadt;9,0;68,2;68,7;67,7
+09.05.2011;13051;      Landkreis Bad Doberan;5,1;77,6;75,6;79,4
+09.05.2011;13052;      Landkreis Demmin;12,0;69,0;67,1;70,7
+09.05.2011;13053;      Landkreis Güstrow;9,6;72,7;70,5;74,8
+09.05.2011;13054;      Landkreis Ludwigslust;4,8;79,2;76,8;81,5
+09.05.2011;13055;      Landkreis Mecklenburg-Strelitz;8,8;74,5;72,8;76,0
+09.05.2011;13056;      Landkreis Müritz;7,7;75,7;73,8;77,6
+09.05.2011;13057;      Landkreis Nordvorpommern;7,4;74,4;73,1;75,7
+09.05.2011;13058;      Landkreis Nordwestmecklenburg;5,6;77,3;75,8;78,7
+09.05.2011;13059;      Landkreis Ostvorpommern;7,9;75,0;72,9;77,1
+09.05.2011;13060;      Landkreis Parchim;6,7;76,2;74,9;77,3
+09.05.2011;13061;      Landkreis Rügen;4,9;78,6;77,8;79,3
+09.05.2011;13062;      Landkreis Uecker-Randow;11,1;68,8;66,4;70,9
+09.05.2011;13071;      Landkreis Mecklenburgische Seenplatte;-;-;-;-
+09.05.2011;13072;      Landkreis Rostock;-;-;-;-
+09.05.2011;13073;      Landkreis Vorpommern-Rügen;-;-;-;-
+09.05.2011;13074;      Landkreis Nordwestmecklenburg;-;-;-;-
+09.05.2011;13075;      Landkreis Vorpommern-Greifswald;-;-;-;-
+09.05.2011;13076;      Landkreis Ludwigslust-Parchim;-;-;-;-
+09.05.2011;14;  Sachsen;6,7;77,3;74,9;79,6
+09.05.2011;141;    Chemnitz, Regierungsbezirk;-;-;-;-
+09.05.2011;14161;      Chemnitz, Kreisfreie Stadt;-;-;-;-
+09.05.2011;14166;      Plauen, Kreisfreie Stadt;-;-;-;-
+09.05.2011;14167;      Zwickau, Kreisfreie Stadt;-;-;-;-
+09.05.2011;14171;      Annaberg, Landkreis;-;-;-;-
+09.05.2011;14173;      Chemnitzer Land, Landkreis;-;-;-;-
+09.05.2011;14177;      Freiberg, Landkreis;-;-;-;-
+09.05.2011;14178;      Vogtlandkreis;-;-;-;-
+09.05.2011;14181;      Mittlerer Erzgebirgskreis;-;-;-;-
+09.05.2011;14182;      Mittweida, Landkreis;-;-;-;-
+09.05.2011;14188;      Stollberg, Landkreis;-;-;-;-
+09.05.2011;14191;      Aue-Schwarzenberg, Landkreis;-;-;-;-
+09.05.2011;14193;      Zwickauer Land, Landkreis;-;-;-;-
+09.05.2011;142;    Dresden, Regierungsbezirk;-;-;-;-
+09.05.2011;14262;      Dresden, Kreisfreie Stadt;-;-;-;-
+09.05.2011;14263;      Görlitz, Kreisfreie Stadt;-;-;-;-
+09.05.2011;14264;      Hoyerswerda, Kreisfreie Stadt;-;-;-;-
+09.05.2011;14272;      Bautzen, Landkreis;-;-;-;-
+09.05.2011;14280;      Meißen, Landkreis;-;-;-;-
+09.05.2011;14284;      Niederschlesischer Oberlausitzkreis;-;-;-;-
+09.05.2011;14285;      Riesa-Großenhain, Landkreis;-;-;-;-
+09.05.2011;14286;      Löbau-Zittau, Landkreis;-;-;-;-
+09.05.2011;14287;      Sächsische Schweiz, Landkreis;-;-;-;-
+09.05.2011;14290;      Weißeritzkreis;-;-;-;-
+09.05.2011;14292;      Kamenz, Landkreis;-;-;-;-
+09.05.2011;143;    Leipzig, Regierungsbezirk;-;-;-;-
+09.05.2011;14365;      Leipzig, Kreisfreie Stadt;-;-;-;-
+09.05.2011;14374;      Delitzsch, Landkreis;-;-;-;-
+09.05.2011;14375;      Döbeln, Landkreis;-;-;-;-
+09.05.2011;14379;      Leipziger Land, Landkreis;-;-;-;-
+09.05.2011;14383;      Muldentalkreis;-;-;-;-
+09.05.2011;14389;      Torgau-Oschatz, Landkreis;-;-;-;-
+09.05.2011;145;    Chemnitz, NUTS 2-Region;6,4;77,4;74,5;80,1
+09.05.2011;14511;      Chemnitz, Stadt;7,7;74,9;72,8;76,9
+09.05.2011;14521;      Erzgebirgskreis;6,3;77,4;73,9;80,7
+09.05.2011;14522;      Mittelsachsen, Landkreis;5,7;78,9;76,5;81,2
+09.05.2011;14523;      Vogtlandkreis;6,7;77,4;74,3;80,4
+09.05.2011;14524;      Zwickau, Landkreis;5,9;77,5;74,4;80,5
+09.05.2011;146;    Dresden, NUTS 2-Region;6,6;77,9;75,9;79,8
+09.05.2011;14612;      Dresden, Stadt;6,0;77,9;76,3;79,6
+09.05.2011;14625;      Bautzen, Landkreis;6,9;78,4;75,8;80,7
+09.05.2011;14626;      Görlitz, Landkreis;8,1;74,3;71,5;76,8
+09.05.2011;14627;      Meißen, Landkreis;6,4;79,2;76,8;81,5
+09.05.2011;14628;      Sächsische Schweiz-Osterzgebirge, Landkreis;5,9;80,0;79,0;80,9
+09.05.2011;147;    Leipzig, NUTS 2-Region;7,5;76,4;74,1;78,6
+09.05.2011;14713;      Leipzig, Stadt;8,1;74,8;72,2;77,4
+09.05.2011;14729;      Leipzig, Landkreis;6,0;78,5;77,0;79,9
+09.05.2011;14730;      Nordsachsen, Landkreis;8,0;77,8;75,5;79,9
+09.05.2011;15;  Sachsen-Anhalt;8,0;74,4;72,0;76,7
+09.05.2011;15001;      Dessau-Roßlau, Kreisfreie Stadt;10,2;73,3;71,6;74,9
+09.05.2011;15002;      Halle (Saale), Kreisfreie Stadt;8,6;70,1;68,3;71,9
+09.05.2011;15003;      Magdeburg, Kreisfreie Stadt;7,5;73,8;72,2;75,2
+09.05.2011;15081;      Altmarkkreis Salzwedel;5,4;78,7;75,8;81,3
+09.05.2011;15082;      Anhalt-Bitterfeld, Landkreis;8,4;74,1;71,7;76,4
+09.05.2011;15083;      Börde, Landkreis;4,9;79,7;77,3;81,9
+09.05.2011;15084;      Burgenlandkreis;9,6;74,4;71,3;77,3
+09.05.2011;15085;      Harz, Landkreis;7,3;75,4;72,9;77,8
+09.05.2011;15086;      Jerichower Land, Landkreis;6,7;76,5;74,6;78,2
+09.05.2011;15087;      Mansfeld-Südharz, Landkreis;9,6;71,3;68,2;74,3
+09.05.2011;15088;      Saalekreis;7,5;76,4;74,2;78,4
+09.05.2011;15089;      Salzlandkreis;9,3;72,2;69,4;74,9
+09.05.2011;15090;      Stendal, Landkreis;8,2;72,9;69,7;76,0
+09.05.2011;15091;      Wittenberg, Landkreis;8,1;75,5;73,0;77,9
+09.05.2011;151;    Dessau, Stat. Region;-;-;-;-
+09.05.2011;15101;      Dessau, Kreisfreie Stadt;-;-;-;-
+09.05.2011;15151;      Anhalt-Zerbst, Kreis;-;-;-;-
+09.05.2011;15153;      Bernburg, Kreis;-;-;-;-
+09.05.2011;15154;      Bitterfeld, Kreis;-;-;-;-
+09.05.2011;15159;      Köthen, Kreis;-;-;-;-
+09.05.2011;15171;      Wittenberg, Kreis;-;-;-;-
+09.05.2011;152;    Halle, Stat. Region;-;-;-;-
+09.05.2011;15202;      Halle (Saale), Kreisfreie Stadt;-;-;-;-
+09.05.2011;15256;      Burgenlandkreis;-;-;-;-
+09.05.2011;15260;      Mansfelder Land, Kreis;-;-;-;-
+09.05.2011;15261;      Merseburg-Querfurt, Kreis;-;-;-;-
+09.05.2011;15265;      Saalkreis;-;-;-;-
+09.05.2011;15266;      Sangerhausen, Kreis;-;-;-;-
+09.05.2011;15268;      Weißenfels, Kreis;-;-;-;-
+09.05.2011;153;    Magdeburg, Stat. Region;-;-;-;-
+09.05.2011;15303;      Magdeburg, Kreisfreie Stadt;-;-;-;-
+09.05.2011;15352;      Aschersleben-Staßfurt, Kreis;-;-;-;-
+09.05.2011;15355;      Bördekreis;-;-;-;-
+09.05.2011;15357;      Halberstadt, Kreis;-;-;-;-
+09.05.2011;15358;      Jerichower Land, Kreis;-;-;-;-
+09.05.2011;15362;      Ohrekreis;-;-;-;-
+09.05.2011;15363;      Stendal, Kreis;-;-;-;-
+09.05.2011;15364;      Quedlinburg, Kreis;-;-;-;-
+09.05.2011;15367;      Schönebeck, Kreis;-;-;-;-
+09.05.2011;15369;      Wernigerode, Kreis;-;-;-;-
+09.05.2011;15370;      Altmarkkreis Salzwedel, Kreis;-;-;-;-
+09.05.2011;16;  Thüringen;5,8;77,4;74,6;80,0
+09.05.2011;16051;      Erfurt, krsfr. Stadt;6,8;75,0;72,3;77,9
+09.05.2011;16052;      Gera, krsfr. Stadt;7,1;76,0;73,7;78,4
+09.05.2011;16053;      Jena, krsfr. Stadt;5,5;72,2;69,7;74,6
+09.05.2011;16054;      Suhl, krsfr. Stadt;4,7;78,9;75,6;82,2
+09.05.2011;16055;      Weimar, krsfr. Stadt;6,4;73,5;72,2;74,8
+09.05.2011;16056;      Eisenach, krsfr. Stadt;5,7;78,5;75,3;81,5
+09.05.2011;16061;      Eichsfeld, Kreis;4,5;79,4;75,7;82,8
+09.05.2011;16062;      Nordhausen, Kreis;7,1;73,5;69,9;76,9
+09.05.2011;16063;      Wartburgkreis;4,1;79,9;77,2;82,4
+09.05.2011;16064;      Unstrut-Hainich-Kreis;8,3;75,9;72,1;79,6
+09.05.2011;16065;      Kyffhäuserkreis;8,8;73,1;70,4;75,6
+09.05.2011;16066;      Schmalkalden-Meiningen, Kreis;4,9;79,2;76,8;81,4
+09.05.2011;16067;      Gotha, Kreis;5,6;79,6;76,0;82,9
+09.05.2011;16068;      Sömmerda, Kreis;7,1;77,1;74,3;79,7
+09.05.2011;16069;      Hildburghausen, Kreis;3,7;81,3;79,5;82,9
+09.05.2011;16070;      Ilm-Kreis;5,9;75,8;73,3;78,0
+09.05.2011;16071;      Weimarer Land, Kreis;5,3;79,7;77,4;81,9
+09.05.2011;16072;      Sonneberg, Kreis;3,5;81,3;78,3;84,1
+09.05.2011;16073;      Saalfeld-Rudolstadt, Kreis;5,1;79,9;78,1;81,6
+09.05.2011;16074;      Saale-Holzland-Kreis;5,2;80,1;77,4;82,6
+09.05.2011;16075;      Saale-Orla-Kreis;3,8;80,4;77,0;83,6
+09.05.2011;16076;      Greiz, Kreis;5,2;78,3;75,4;81,0
+09.05.2011;16077;      Altenburger Land, Kreis;8,1;74,7;72,1;77,1
+__________
+"© Statistische Ämter des Bundes und der Länder, Deutschland, 2017.
+Dieses Werk ist lizensiert unter der Datenlizenz Deutschland
+- Namensnennung - Version 2.0."
+Stand: 10.10.2017 / 11:16:52

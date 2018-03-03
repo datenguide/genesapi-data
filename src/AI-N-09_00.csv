@@ -1,0 +1,531 @@
+GENESIS-Tabelle: AI-N-09
+Regionalatlas Deutschland Indikatoren des Indikatorensystems;;;
+"""Nachhaltigkeit"" Themenbereich ""Armutsgefährdung""";;;
+Regionalatlas Deutschland;;;
+;;;Armutsgefährdungsquote (Bundesmedian)
+;;;Prozent
+2005;DG;Deutschland;14,7
+2005;01;  Schleswig-Holstein;13,3
+2005;02;  Hamburg;15,7
+2005;03;  Niedersachsen;15,5
+2005;031;    Braunschweig, Stat. Region;15,0
+2005;032;    Hannover, Stat. Region;15,0
+2005;033;    Lüneburg, Stat. Region;14,7
+2005;034;    Weser-Ems, Stat. Region;16,9
+2005;04;  Bremen;22,3
+2005;05;  Nordrhein-Westfalen;14,4
+2005;051;    Düsseldorf, Regierungsbezirk;14,6
+2005;053;    Köln, Regierungsbezirk;14,2
+2005;055;    Münster, Regierungsbezirk;13,9
+2005;057;    Detmold, Regierungsbezirk;14,6
+2005;059;    Arnsberg, Regierungsbezirk;14,9
+2005;06;  Hessen;12,7
+2005;064;    Darmstadt, Regierungsbezirk;11,5
+2005;065;    Gießen, Regierungsbezirk;15,0
+2005;066;    Kassel, Regierungsbezirk;14,7
+2005;07;  Rheinland-Pfalz;14,2
+2005;071;    Koblenz, Stat. Region;14,4
+2005;072;    Trier, Stat. Region;14,7
+2005;073;    Rheinhessen-Pfalz, Stat. Region;13,9
+2005;08;  Baden-Württemberg, Land;10,6
+2005;081;    Stuttgart, Regierungsbezirk;10,0
+2005;082;    Karlsruhe, Regierungsbzirk;11,2
+2005;083;    Freiburg, Regierungsbezirk;11,1
+2005;084;    Tübingen, Regierungsbezirk;10,4
+2005;09;  Bayern;11,4
+2005;091;    Oberbayern, Regierungsbezirk;9,3
+2005;092;    Niederbayern, Regierungsbezirk;12,3
+2005;093;    Oberpfalz, Regierungsbezirk;12,2
+2005;094;    Oberfranken, Regierungsbezirk;13,7
+2005;095;    Mittelfranken, Regierungsbezirk;12,5
+2005;096;    Unterfranken, Regierungsbezirk;12,8
+2005;097;    Schwaben, Regierungsbezirk;11,4
+2005;10;  Saarland;15,5
+2005;11;  Berlin;19,7
+2005;12;  Brandenburg;19,2
+2005;13;  Mecklenburg-Vorpommern;24,1
+2005;14;  Sachsen;19,2
+2005;141;    Chemnitz, Regierungsbezirk;-
+2005;142;    Dresden, Regierungsbezirk;-
+2005;143;    Leipzig, Regierungsbezirk;-
+2005;145;    Chemnitz, NUTS 2-Region;18,7
+2005;146;    Dresden, NUTS 2-Region;18,4
+2005;147;    Leipzig, NUTS 2-Region;21,5
+2005;15;  Sachsen-Anhalt;22,4
+2005;151;    Dessau, Stat. Region;-
+2005;152;    Halle, Stat. Region;-
+2005;153;    Magdeburg, Stat. Region;-
+2005;16;  Thüringen;19,9
+2006;DG;Deutschland;14,0
+2006;01;  Schleswig-Holstein;12,0
+2006;02;  Hamburg;14,3
+2006;03;  Niedersachsen;15,3
+2006;031;    Braunschweig, Stat. Region;14,3
+2006;032;    Hannover, Stat. Region;14,9
+2006;033;    Lüneburg, Stat. Region;13,6
+2006;034;    Weser-Ems, Stat. Region;17,5
+2006;04;  Bremen;20,4
+2006;05;  Nordrhein-Westfalen;13,9
+2006;051;    Düsseldorf, Regierungsbezirk;13,3
+2006;053;    Köln, Regierungsbezirk;13,4
+2006;055;    Münster, Regierungsbezirk;13,9
+2006;057;    Detmold, Regierungsbezirk;14,4
+2006;059;    Arnsberg, Regierungsbezirk;15,2
+2006;06;  Hessen;12,0
+2006;064;    Darmstadt, Regierungsbezirk;10,5
+2006;065;    Gießen, Regierungsbezirk;14,4
+2006;066;    Kassel, Regierungsbezirk;14,4
+2006;07;  Rheinland-Pfalz;13,2
+2006;071;    Koblenz, Stat. Region;13,3
+2006;072;    Trier, Stat. Region;14,1
+2006;073;    Rheinhessen-Pfalz, Stat. Region;12,8
+2006;08;  Baden-Württemberg, Land;10,1
+2006;081;    Stuttgart, Regierungsbezirk;10,1
+2006;082;    Karlsruhe, Regierungsbzirk;10,6
+2006;083;    Freiburg, Regierungsbezirk;10,1
+2006;084;    Tübingen, Regierungsbezirk;9,5
+2006;09;  Bayern;10,9
+2006;091;    Oberbayern, Regierungsbezirk;8,6
+2006;092;    Niederbayern, Regierungsbezirk;11,9
+2006;093;    Oberpfalz, Regierungsbezirk;12,4
+2006;094;    Oberfranken, Regierungsbezirk;13,7
+2006;095;    Mittelfranken, Regierungsbezirk;12,0
+2006;096;    Unterfranken, Regierungsbezirk;12,7
+2006;097;    Schwaben, Regierungsbezirk;11,0
+2006;10;  Saarland;16,0
+2006;11;  Berlin;17,0
+2006;12;  Brandenburg;18,9
+2006;13;  Mecklenburg-Vorpommern;22,9
+2006;14;  Sachsen;18,5
+2006;141;    Chemnitz, Regierungsbezirk;-
+2006;142;    Dresden, Regierungsbezirk;-
+2006;143;    Leipzig, Regierungsbezirk;-
+2006;145;    Chemnitz, NUTS 2-Region;17,7
+2006;146;    Dresden, NUTS 2-Region;18,0
+2006;147;    Leipzig, NUTS 2-Region;20,7
+2006;15;  Sachsen-Anhalt;21,6
+2006;151;    Dessau, Stat. Region;-
+2006;152;    Halle, Stat. Region;-
+2006;153;    Magdeburg, Stat. Region;-
+2006;16;  Thüringen;19,0
+2007;DG;Deutschland;14,3
+2007;01;  Schleswig-Holstein;12,5
+2007;02;  Hamburg;14,1
+2007;03;  Niedersachsen;15,5
+2007;031;    Braunschweig, Stat. Region;15,3
+2007;032;    Hannover, Stat. Region;15,5
+2007;033;    Lüneburg, Stat. Region;13,4
+2007;034;    Weser-Ems, Stat. Region;17,0
+2007;04;  Bremen;19,1
+2007;05;  Nordrhein-Westfalen;14,6
+2007;051;    Düsseldorf, Regierungsbezirk;14,5
+2007;053;    Köln, Regierungsbezirk;13,9
+2007;055;    Münster, Regierungsbezirk;13,7
+2007;057;    Detmold, Regierungsbezirk;14,5
+2007;059;    Arnsberg, Regierungsbezirk;16,1
+2007;06;  Hessen;12,0
+2007;064;    Darmstadt, Regierungsbezirk;10,6
+2007;065;    Gießen, Regierungsbezirk;14,4
+2007;066;    Kassel, Regierungsbezirk;14,4
+2007;07;  Rheinland-Pfalz;13,5
+2007;071;    Koblenz, Stat. Region;14,6
+2007;072;    Trier, Stat. Region;12,7
+2007;073;    Rheinhessen-Pfalz, Stat. Region;12,8
+2007;08;  Baden-Württemberg, Land;10,0
+2007;081;    Stuttgart, Regierungsbezirk;9,8
+2007;082;    Karlsruhe, Regierungsbzirk;10,7
+2007;083;    Freiburg, Regierungsbezirk;9,6
+2007;084;    Tübingen, Regierungsbezirk;9,9
+2007;09;  Bayern;11,0
+2007;091;    Oberbayern, Regierungsbezirk;8,8
+2007;092;    Niederbayern, Regierungsbezirk;12,0
+2007;093;    Oberpfalz, Regierungsbezirk;11,9
+2007;094;    Oberfranken, Regierungsbezirk;13,5
+2007;095;    Mittelfranken, Regierungsbezirk;12,6
+2007;096;    Unterfranken, Regierungsbezirk;12,4
+2007;097;    Schwaben, Regierungsbezirk;11,0
+2007;10;  Saarland;16,8
+2007;11;  Berlin;17,5
+2007;12;  Brandenburg;17,5
+2007;13;  Mecklenburg-Vorpommern;24,3
+2007;14;  Sachsen;19,6
+2007;141;    Chemnitz, Regierungsbezirk;-
+2007;142;    Dresden, Regierungsbezirk;-
+2007;143;    Leipzig, Regierungsbezirk;-
+2007;145;    Chemnitz, NUTS 2-Region;18,2
+2007;146;    Dresden, NUTS 2-Region;19,6
+2007;147;    Leipzig, NUTS 2-Region;21,9
+2007;15;  Sachsen-Anhalt;21,5
+2007;151;    Dessau, Stat. Region;-
+2007;152;    Halle, Stat. Region;-
+2007;153;    Magdeburg, Stat. Region;-
+2007;16;  Thüringen;18,9
+2008;DG;Deutschland;14,4
+2008;01;  Schleswig-Holstein;13,1
+2008;02;  Hamburg;13,1
+2008;03;  Niedersachsen;15,8
+2008;031;    Braunschweig, Stat. Region;15,5
+2008;032;    Hannover, Stat. Region;15,9
+2008;033;    Lüneburg, Stat. Region;14,1
+2008;034;    Weser-Ems, Stat. Region;17,0
+2008;04;  Bremen;22,2
+2008;05;  Nordrhein-Westfalen;14,7
+2008;051;    Düsseldorf, Regierungsbezirk;14,1
+2008;053;    Köln, Regierungsbezirk;14,5
+2008;055;    Münster, Regierungsbezirk;14,2
+2008;057;    Detmold, Regierungsbezirk;14,3
+2008;059;    Arnsberg, Regierungsbezirk;16,1
+2008;06;  Hessen;12,7
+2008;064;    Darmstadt, Regierungsbezirk;11,2
+2008;065;    Gießen, Regierungsbezirk;14,8
+2008;066;    Kassel, Regierungsbezirk;15,3
+2008;07;  Rheinland-Pfalz;14,5
+2008;071;    Koblenz, Stat. Region;16,0
+2008;072;    Trier, Stat. Region;13,5
+2008;073;    Rheinhessen-Pfalz, Stat. Region;13,7
+2008;08;  Baden-Württemberg, Land;10,2
+2008;081;    Stuttgart, Regierungsbezirk;9,5
+2008;082;    Karlsruhe, Regierungsbzirk;11,1
+2008;083;    Freiburg, Regierungsbezirk;10,3
+2008;084;    Tübingen, Regierungsbezirk;10,1
+2008;09;  Bayern;10,8
+2008;091;    Oberbayern, Regierungsbezirk;8,7
+2008;092;    Niederbayern, Regierungsbezirk;11,8
+2008;093;    Oberpfalz, Regierungsbezirk;11,3
+2008;094;    Oberfranken, Regierungsbezirk;13,2
+2008;095;    Mittelfranken, Regierungsbezirk;12,5
+2008;096;    Unterfranken, Regierungsbezirk;12,4
+2008;097;    Schwaben, Regierungsbezirk;10,9
+2008;10;  Saarland;15,8
+2008;11;  Berlin;18,7
+2008;12;  Brandenburg;16,8
+2008;13;  Mecklenburg-Vorpommern;24,0
+2008;14;  Sachsen;19,0
+2008;141;    Chemnitz, Regierungsbezirk;-
+2008;142;    Dresden, Regierungsbezirk;-
+2008;143;    Leipzig, Regierungsbezirk;-
+2008;145;    Chemnitz, NUTS 2-Region;17,5
+2008;146;    Dresden, NUTS 2-Region;18,6
+2008;147;    Leipzig, NUTS 2-Region;22,2
+2008;15;  Sachsen-Anhalt;22,1
+2008;151;    Dessau, Stat. Region;-
+2008;152;    Halle, Stat. Region;-
+2008;153;    Magdeburg, Stat. Region;-
+2008;16;  Thüringen;18,5
+2009;DG;Deutschland;14,6
+2009;01;  Schleswig-Holstein;14,0
+2009;02;  Hamburg;14,0
+2009;03;  Niedersachsen;15,3
+2009;031;    Braunschweig, Stat. Region;15,7
+2009;032;    Hannover, Stat. Region;16,4
+2009;033;    Lüneburg, Stat. Region;13,1
+2009;034;    Weser-Ems, Stat. Region;15,7
+2009;04;  Bremen;20,1
+2009;05;  Nordrhein-Westfalen;15,2
+2009;051;    Düsseldorf, Regierungsbezirk;15,3
+2009;053;    Köln, Regierungsbezirk;14,7
+2009;055;    Münster, Regierungsbezirk;14,3
+2009;057;    Detmold, Regierungsbezirk;14,6
+2009;059;    Arnsberg, Regierungsbezirk;16,8
+2009;06;  Hessen;12,4
+2009;064;    Darmstadt, Regierungsbezirk;11,1
+2009;065;    Gießen, Regierungsbezirk;14,6
+2009;066;    Kassel, Regierungsbezirk;14,6
+2009;07;  Rheinland-Pfalz;14,2
+2009;071;    Koblenz, Stat. Region;15,6
+2009;072;    Trier, Stat. Region;13,5
+2009;073;    Rheinhessen-Pfalz, Stat. Region;13,4
+2009;08;  Baden-Württemberg, Land;10,9
+2009;081;    Stuttgart, Regierungsbezirk;10,2
+2009;082;    Karlsruhe, Regierungsbzirk;12,3
+2009;083;    Freiburg, Regierungsbezirk;10,9
+2009;084;    Tübingen, Regierungsbezirk;10,2
+2009;09;  Bayern;11,1
+2009;091;    Oberbayern, Regierungsbezirk;8,9
+2009;092;    Niederbayern, Regierungsbezirk;12,0
+2009;093;    Oberpfalz, Regierungsbezirk;13,2
+2009;094;    Oberfranken, Regierungsbezirk;13,9
+2009;095;    Mittelfranken, Regierungsbezirk;12,3
+2009;096;    Unterfranken, Regierungsbezirk;12,9
+2009;097;    Schwaben, Regierungsbezirk;10,3
+2009;10;  Saarland;16,0
+2009;11;  Berlin;19,0
+2009;12;  Brandenburg;16,7
+2009;13;  Mecklenburg-Vorpommern;23,1
+2009;14;  Sachsen;19,5
+2009;141;    Chemnitz, Regierungsbezirk;-
+2009;142;    Dresden, Regierungsbezirk;-
+2009;143;    Leipzig, Regierungsbezirk;-
+2009;145;    Chemnitz, NUTS 2-Region;18,4
+2009;146;    Dresden, NUTS 2-Region;18,9
+2009;147;    Leipzig, NUTS 2-Region;21,9
+2009;15;  Sachsen-Anhalt;21,8
+2009;151;    Dessau, Stat. Region;-
+2009;152;    Halle, Stat. Region;-
+2009;153;    Magdeburg, Stat. Region;-
+2009;16;  Thüringen;18,1
+2010;DG;Deutschland;14,5
+2010;01;  Schleswig-Holstein;13,8
+2010;02;  Hamburg;13,3
+2010;03;  Niedersachsen;15,3
+2010;031;    Braunschweig, Stat. Region;16,2
+2010;032;    Hannover, Stat. Region;16,2
+2010;033;    Lüneburg, Stat. Region;12,9
+2010;034;    Weser-Ems, Stat. Region;15,6
+2010;04;  Bremen;21,1
+2010;05;  Nordrhein-Westfalen;15,4
+2010;051;    Düsseldorf, Regierungsbezirk;14,9
+2010;053;    Köln, Regierungsbezirk;14,8
+2010;055;    Münster, Regierungsbezirk;14,7
+2010;057;    Detmold, Regierungsbezirk;15,7
+2010;059;    Arnsberg, Regierungsbezirk;17,0
+2010;06;  Hessen;12,1
+2010;064;    Darmstadt, Regierungsbezirk;10,6
+2010;065;    Gießen, Regierungsbezirk;14,1
+2010;066;    Kassel, Regierungsbezirk;15,2
+2010;07;  Rheinland-Pfalz;14,8
+2010;071;    Koblenz, Stat. Region;15,3
+2010;072;    Trier, Stat. Region;13,9
+2010;073;    Rheinhessen-Pfalz, Stat. Region;14,7
+2010;08;  Baden-Württemberg, Land;11,0
+2010;081;    Stuttgart, Regierungsbezirk;10,3
+2010;082;    Karlsruhe, Regierungsbzirk;12,2
+2010;083;    Freiburg, Regierungsbezirk;10,9
+2010;084;    Tübingen, Regierungsbezirk;10,6
+2010;09;  Bayern;10,8
+2010;091;    Oberbayern, Regierungsbezirk;8,8
+2010;092;    Niederbayern, Regierungsbezirk;11,8
+2010;093;    Oberpfalz, Regierungsbezirk;12,7
+2010;094;    Oberfranken, Regierungsbezirk;13,1
+2010;095;    Mittelfranken, Regierungsbezirk;12,2
+2010;096;    Unterfranken, Regierungsbezirk;12,8
+2010;097;    Schwaben, Regierungsbezirk;9,9
+2010;10;  Saarland;14,3
+2010;11;  Berlin;19,2
+2010;12;  Brandenburg;16,3
+2010;13;  Mecklenburg-Vorpommern;22,4
+2010;14;  Sachsen;19,4
+2010;141;    Chemnitz, Regierungsbezirk;-
+2010;142;    Dresden, Regierungsbezirk;-
+2010;143;    Leipzig, Regierungsbezirk;-
+2010;145;    Chemnitz, NUTS 2-Region;18,4
+2010;146;    Dresden, NUTS 2-Region;18,4
+2010;147;    Leipzig, NUTS 2-Region;22,7
+2010;15;  Sachsen-Anhalt;19,8
+2010;151;    Dessau, Stat. Region;-
+2010;152;    Halle, Stat. Region;-
+2010;153;    Magdeburg, Stat. Region;-
+2010;16;  Thüringen;17,6
+2011;DG;Deutschland;15,0
+2011;01;  Schleswig-Holstein;13,6
+2011;02;  Hamburg;14,7
+2011;03;  Niedersachsen;15,5
+2011;031;    Braunschweig, Stat. Region;16,3
+2011;032;    Hannover, Stat. Region;16,4
+2011;033;    Lüneburg, Stat. Region;12,9
+2011;034;    Weser-Ems, Stat. Region;15,8
+2011;04;  Bremen;22,0
+2011;05;  Nordrhein-Westfalen;16,4
+2011;051;    Düsseldorf, Regierungsbezirk;16,7
+2011;053;    Köln, Regierungsbezirk;15,9
+2011;055;    Münster, Regierungsbezirk;15,5
+2011;057;    Detmold, Regierungsbezirk;15,7
+2011;059;    Arnsberg, Regierungsbezirk;17,6
+2011;06;  Hessen;12,8
+2011;064;    Darmstadt, Regierungsbezirk;11,7
+2011;065;    Gießen, Regierungsbezirk;14,6
+2011;066;    Kassel, Regierungsbezirk;14,7
+2011;07;  Rheinland-Pfalz;15,1
+2011;071;    Koblenz, Stat. Region;15,6
+2011;072;    Trier, Stat. Region;14,0
+2011;073;    Rheinhessen-Pfalz, Stat. Region;14,9
+2011;08;  Baden-Württemberg, Land;11,1
+2011;081;    Stuttgart, Regierungsbezirk;11,2
+2011;082;    Karlsruhe, Regierungsbzirk;12,2
+2011;083;    Freiburg, Regierungsbezirk;10,6
+2011;084;    Tübingen, Regierungsbezirk;10,0
+2011;09;  Bayern;11,1
+2011;091;    Oberbayern, Regierungsbezirk;9,6
+2011;092;    Niederbayern, Regierungsbezirk;11,7
+2011;093;    Oberpfalz, Regierungsbezirk;11,7
+2011;094;    Oberfranken, Regierungsbezirk;12,7
+2011;095;    Mittelfranken, Regierungsbezirk;13,1
+2011;096;    Unterfranken, Regierungsbezirk;12,3
+2011;097;    Schwaben, Regierungsbezirk;10,7
+2011;10;  Saarland;15,2
+2011;11;  Berlin;20,6
+2011;12;  Brandenburg;16,8
+2011;13;  Mecklenburg-Vorpommern;22,1
+2011;14;  Sachsen;19,5
+2011;141;    Chemnitz, Regierungsbezirk;-
+2011;142;    Dresden, Regierungsbezirk;-
+2011;143;    Leipzig, Regierungsbezirk;-
+2011;145;    Chemnitz, NUTS 2-Region;18,7
+2011;146;    Dresden, NUTS 2-Region;18,6
+2011;147;    Leipzig, NUTS 2-Region;22,3
+2011;15;  Sachsen-Anhalt;20,6
+2011;151;    Dessau, Stat. Region;-
+2011;152;    Halle, Stat. Region;-
+2011;153;    Magdeburg, Stat. Region;-
+2011;16;  Thüringen;16,7
+2012;DG;Deutschland;15,0
+2012;01;  Schleswig-Holstein;13,8
+2012;02;  Hamburg;14,8
+2012;03;  Niedersachsen;15,7
+2012;031;    Braunschweig, Stat. Region;17,2
+2012;032;    Hannover, Stat. Region;15,7
+2012;033;    Lüneburg, Stat. Region;13,4
+2012;034;    Weser-Ems, Stat. Region;16,2
+2012;04;  Bremen;22,9
+2012;05;  Nordrhein-Westfalen;16,3
+2012;051;    Düsseldorf, Regierungsbezirk;16,6
+2012;053;    Köln, Regierungsbezirk;15,9
+2012;055;    Münster, Regierungsbezirk;15,9
+2012;057;    Detmold, Regierungsbezirk;14,5
+2012;059;    Arnsberg, Regierungsbezirk;17,7
+2012;06;  Hessen;13,3
+2012;064;    Darmstadt, Regierungsbezirk;12,3
+2012;065;    Gießen, Regierungsbezirk;15,0
+2012;066;    Kassel, Regierungsbezirk;15,2
+2012;07;  Rheinland-Pfalz;14,6
+2012;071;    Koblenz, Stat. Region;15,6
+2012;072;    Trier, Stat. Region;12,7
+2012;073;    Rheinhessen-Pfalz, Stat. Region;14,3
+2012;08;  Baden-Württemberg, Land;11,1
+2012;081;    Stuttgart, Regierungsbezirk;10,8
+2012;082;    Karlsruhe, Regierungsbzirk;12,5
+2012;083;    Freiburg, Regierungsbezirk;11,1
+2012;084;    Tübingen, Regierungsbezirk;9,6
+2012;09;  Bayern;11,0
+2012;091;    Oberbayern, Regierungsbezirk;9,3
+2012;092;    Niederbayern, Regierungsbezirk;11,5
+2012;093;    Oberpfalz, Regierungsbezirk;11,9
+2012;094;    Oberfranken, Regierungsbezirk;13,4
+2012;095;    Mittelfranken, Regierungsbezirk;12,2
+2012;096;    Unterfranken, Regierungsbezirk;12,5
+2012;097;    Schwaben, Regierungsbezirk;10,8
+2012;10;  Saarland;15,4
+2012;11;  Berlin;20,8
+2012;12;  Brandenburg;18,1
+2012;13;  Mecklenburg-Vorpommern;22,8
+2012;14;  Sachsen;18,8
+2012;141;    Chemnitz, Regierungsbezirk;-
+2012;142;    Dresden, Regierungsbezirk;-
+2012;143;    Leipzig, Regierungsbezirk;-
+2012;145;    Chemnitz, NUTS 2-Region;17,9
+2012;146;    Dresden, NUTS 2-Region;17,8
+2012;147;    Leipzig, NUTS 2-Region;22,0
+2012;15;  Sachsen-Anhalt;21,1
+2012;151;    Dessau, Stat. Region;-
+2012;152;    Halle, Stat. Region;-
+2012;153;    Magdeburg, Stat. Region;-
+2012;16;  Thüringen;16,8
+2013;DG;Deutschland;15,5
+2013;01;  Schleswig-Holstein;14,0
+2013;02;  Hamburg;16,9
+2013;03;  Niedersachsen;16,1
+2013;031;    Braunschweig, Stat. Region;17,8
+2013;032;    Hannover, Stat. Region;16,2
+2013;033;    Lüneburg, Stat. Region;14,1
+2013;034;    Weser-Ems, Stat. Region;16,2
+2013;04;  Bremen;24,6
+2013;05;  Nordrhein-Westfalen;17,1
+2013;051;    Düsseldorf, Regierungsbezirk;17,4
+2013;053;    Köln, Regierungsbezirk;17,0
+2013;055;    Münster, Regierungsbezirk;17,1
+2013;057;    Detmold, Regierungsbezirk;15,3
+2013;059;    Arnsberg, Regierungsbezirk;18,0
+2013;06;  Hessen;13,7
+2013;064;    Darmstadt, Regierungsbezirk;12,5
+2013;065;    Gießen, Regierungsbezirk;15,4
+2013;066;    Kassel, Regierungsbezirk;16,0
+2013;07;  Rheinland-Pfalz;15,4
+2013;071;    Koblenz, Stat. Region;15,3
+2013;072;    Trier, Stat. Region;14,2
+2013;073;    Rheinhessen-Pfalz, Stat. Region;15,7
+2013;08;  Baden-Württemberg, Land;11,4
+2013;081;    Stuttgart, Regierungsbezirk;11,3
+2013;082;    Karlsruhe, Regierungsbzirk;12,5
+2013;083;    Freiburg, Regierungsbezirk;11,3
+2013;084;    Tübingen, Regierungsbezirk;9,7
+2013;09;  Bayern;11,3
+2013;091;    Oberbayern, Regierungsbezirk;9,3
+2013;092;    Niederbayern, Regierungsbezirk;12,1
+2013;093;    Oberpfalz, Regierungsbezirk;12,5
+2013;094;    Oberfranken, Regierungsbezirk;12,8
+2013;095;    Mittelfranken, Regierungsbezirk;13,2
+2013;096;    Unterfranken, Regierungsbezirk;12,4
+2013;097;    Schwaben, Regierungsbezirk;11,3
+2013;10;  Saarland;17,1
+2013;11;  Berlin;21,4
+2013;12;  Brandenburg;17,7
+2013;13;  Mecklenburg-Vorpommern;23,6
+2013;14;  Sachsen;18,8
+2013;141;    Chemnitz, Regierungsbezirk;-
+2013;142;    Dresden, Regierungsbezirk;-
+2013;143;    Leipzig, Regierungsbezirk;-
+2013;145;    Chemnitz, NUTS 2-Region;17,5
+2013;146;    Dresden, NUTS 2-Region;17,8
+2013;147;    Leipzig, NUTS 2-Region;22,2
+2013;15;  Sachsen-Anhalt;20,9
+2013;151;    Dessau, Stat. Region;-
+2013;152;    Halle, Stat. Region;-
+2013;153;    Magdeburg, Stat. Region;-
+2013;16;  Thüringen;18,0
+2014;DG;Deutschland;15,4
+2014;01;  Schleswig-Holstein;13,8
+2014;02;  Hamburg;15,6
+2014;03;  Niedersachsen;15,8
+2014;031;    Braunschweig, Stat. Region;18,1
+2014;032;    Hannover, Stat. Region;15,7
+2014;033;    Lüneburg, Stat. Region;13,3
+2014;034;    Weser-Ems, Stat. Region;16,1
+2014;04;  Bremen;24,1
+2014;05;  Nordrhein-Westfalen;17,5
+2014;051;    Düsseldorf, Regierungsbezirk;17,9
+2014;053;    Köln, Regierungsbezirk;16,6
+2014;055;    Münster, Regierungsbezirk;17,5
+2014;057;    Detmold, Regierungsbezirk;16,0
+2014;059;    Arnsberg, Regierungsbezirk;18,6
+2014;06;  Hessen;13,8
+2014;064;    Darmstadt, Regierungsbezirk;12,5
+2014;065;    Gießen, Regierungsbezirk;16,1
+2014;066;    Kassel, Regierungsbezirk;15,7
+2014;07;  Rheinland-Pfalz;15,5
+2014;071;    Koblenz, Stat. Region;16,0
+2014;072;    Trier, Stat. Region;13,3
+2014;073;    Rheinhessen-Pfalz, Stat. Region;15,8
+2014;08;  Baden-Württemberg, Land;11,4
+2014;081;    Stuttgart, Regierungsbezirk;11,0
+2014;082;    Karlsruhe, Regierungsbzirk;12,8
+2014;083;    Freiburg, Regierungsbezirk;11,2
+2014;084;    Tübingen, Regierungsbezirk;10,3
+2014;09;  Bayern;11,5
+2014;091;    Oberbayern, Regierungsbezirk;8,9
+2014;092;    Niederbayern, Regierungsbezirk;12,3
+2014;093;    Oberpfalz, Regierungsbezirk;12,1
+2014;094;    Oberfranken, Regierungsbezirk;13,6
+2014;095;    Mittelfranken, Regierungsbezirk;14,0
+2014;096;    Unterfranken, Regierungsbezirk;13,1
+2014;097;    Schwaben, Regierungsbezirk;12,1
+2014;10;  Saarland;17,5
+2014;11;  Berlin;20,0
+2014;12;  Brandenburg;16,9
+2014;13;  Mecklenburg-Vorpommern;21,3
+2014;14;  Sachsen;18,5
+2014;141;    Chemnitz, Regierungsbezirk;-
+2014;142;    Dresden, Regierungsbezirk;-
+2014;143;    Leipzig, Regierungsbezirk;-
+2014;145;    Chemnitz, NUTS 2-Region;17,0
+2014;146;    Dresden, NUTS 2-Region;17,7
+2014;147;    Leipzig, NUTS 2-Region;22,0
+2014;15;  Sachsen-Anhalt;21,3
+2014;151;    Dessau, Stat. Region;-
+2014;152;    Halle, Stat. Region;-
+2014;153;    Magdeburg, Stat. Region;-
+2014;16;  Thüringen;17,8
+__________
+"© Statistische Ämter des Bundes und der Länder, Deutschland, 2017.
+Dieses Werk ist lizensiert unter der Datenlizenz Deutschland
+- Namensnennung - Version 2.0."
+Stand: 10.10.2017 / 16:09:36
