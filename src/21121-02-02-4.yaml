@@ -1,0 +1,20 @@
+skip: 11
+skipfooter: 4
+names:
+  - _date
+  - _id
+  - name
+  - BILABB__GEST
+  - BILABB__GESW
+  - BILABB__BILABB12__GEST
+  - BILABB__BILABB12__GESW
+  - BILABB__BILABB13__GEST
+  - BILABB__BILABB13__GESW
+  - BILABB__BILABB14__GEST
+  - BILABB__BILABB14__GESW
+  - BILABB__BILABB15__GEST
+  - BILABB__BILABB15__GESW
+  - BILABN__GEST
+  - BILABN__GESW
+exclude:
+  - name

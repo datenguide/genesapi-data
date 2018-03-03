@@ -1,0 +1,19 @@
+skip: 9
+skipfooter: 4
+prefix: WAHL__BTW
+names:
+  - _date
+  - _id
+  - name
+  - WAHL01
+  - WAHLSR
+  - WAHL09__INSGESAMT
+  - WAHL09__CDUCSU
+  - WAHL09__SPD
+  - WAHL09__B90GRUENE
+  - WAHL09__FDP
+  - WAHL09__LINKE
+  - WAHL09__AFD
+  - WAHL09__SONSTIGE
+exclude:
+  - name

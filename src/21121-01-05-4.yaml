@@ -1,0 +1,25 @@
+skip: 10
+skipfooter: 4
+names:
+  - _id
+  - name
+  - BILSA7
+  - BIL014
+  - BIL004__GEST
+  - BIL004__GESW
+  - BIL004__NAT__NATA
+exclude:
+  - name
+pivot: BILSA7
+replace:
+  "Berufsschulen": SCHULE17
+  "dar. ohne Ausbildungsvertrag": SCHULE171
+  "Berufsaufbauschulen": SCHULE20
+  "Berufsfachschulen": SCHULE21
+  "Fachoberschulen": SCHULE22
+  "Fachgymnasien": SCHULE23
+  "Berufsober- / Technische Oberschulen": SCHULE24
+  "Fachschulen": SCHULE25
+  "Fachakademien / Berufsakademien": SCHULE26
+add_cols:
+  _year: "year:2015"

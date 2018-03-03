@@ -1,0 +1,28 @@
+skip: 10
+skipfooter: 4
+names:
+  - _id
+  - name
+  - BILSA8
+  - BIL013
+  - BIL003__GEST
+  - BIL003__GESW
+  - BIL003__NAT__NATA
+  - BIL003__BILKL2__JGSTUFE7
+  - BIL003__BILKL2__JGSTUFE11
+exclude:
+  - name
+pivot: BILSA8
+replace:
+  "Grundschulen": SCHULE03
+  "Schulartunabhängige Orientierungsstufe": SCHULE04
+  "Hauptschulen": SCHULE05
+  "Schularten mit mehreren Bildungsgängen": SCHULE06
+  "Realschulen": SCHULE07
+  "Gymnasien": SCHULE08
+  "Integrierte Gesamtschulen": SCHULE09
+  "Freie Waldorfschulen": SCHULE10
+  "Sonderschulen/Förderschulen": SCHULE11
+  "Abendschulen und Kollegs": SCHULE28
+  "Vorschulbereich": SCHULE29
+  "Insgesamt": BIL003

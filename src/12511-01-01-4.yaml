@@ -1,0 +1,16 @@
+skip: 8
+skipfooter: 4
+names:
+  - _date
+  - _id
+  - name
+  - STAKNW__INSGESAMT
+  - STAKNW__ST2
+  - STAKNW__ST3
+  - STAKNW__ST4
+  - STAKNW__ST5
+  - STAKNW__ST1
+  - STAKNW__ST997
+prefix: BEV008
+exclude:
+  - name

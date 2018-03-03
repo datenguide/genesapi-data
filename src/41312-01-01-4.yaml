@@ -1,0 +1,21 @@
+skip: 8
+skipfooter: 4
+names:
+  - _date
+  - _id
+  - name
+  - AGRVART01
+  - AGRVART11
+  - TIERART03A
+  - TIERART204141M
+  - TIERART204141W
+  - TIERART204141RM
+  - TIERART204141RW
+  - TIERART20412M
+  - TIERART20412W
+  - TIERART20413M
+  - TIERART20413W
+prefix: TIE003__TIEA05
+exclude:
+  - name
+

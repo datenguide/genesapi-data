@@ -1,0 +1,19 @@
+skip: 9
+skipfooter: 4
+prefix: WAHL__EPW
+names:
+  - _date
+  - _id
+  - name
+  - WAHL01
+  - WAHLSR
+  - WAHL04__INSGESAMT
+  - WAHL04__CDUCSU
+  - WAHL04__SPD
+  - WAHL04__B40GRUENE
+  - WAHL04__FDP
+  - WAHL04__LINKE
+  - WAHL04__AFD
+  - WAHL04__SONSTIGE
+exclude:
+  - name

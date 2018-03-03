@@ -1,0 +1,23 @@
+skip: 9
+skipfooter: 4
+prefix: BILABS
+names:
+  - _date
+  - _id
+  - name
+  - GEST
+  - GESW
+  - BILABS11__GEST
+  - BILABS11__GESW
+  - BILABS12__GEST
+  - BILABS12__GESW
+  - BILABS13__GEST
+  - BILABS13__GESW
+  - BILABS14D__GEST
+  - BILABS14D__GESW
+  - BILABS14__GEST
+  - BILABS14__GESW
+  - BILABS15__GEST
+  - BILABS15__GESW
+exclude:
+  - name
