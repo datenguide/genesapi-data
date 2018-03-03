@@ -92,6 +92,30 @@ Thats the manual work that needs to be done.
 
 Raw (unprocessed) csv files from the sources mentioned above should be put into the `src`-folder. The naming convention would be the identifier (unique id) for this table in the GENESIS platforms, for the example above this would be `12411-01-01-4.csv`
 
+Source csv files can be automatically downloaded from [regionalstatistik.de](https://regionalstatistik.de), based on a metadata index from [govdata.de](http://govdata.de):
+
+
+```bash
+# a) Download and unzip metadata from govdata.de:
+
+wget https://www.govdata.de/dump/govdata.de-metadata-daily.json.gz
+gzip -d govdata.de-metadata-daily.json.gz
+```
+
+```javascript
+// b) Extract the relevant URLs (e.g. using NodeJS):
+
+data=require("./govdata.de-metadata-daily.json"); // load json into memory
+var f=data.filter(a=>/regionalstatistik/.test(a.url)).map(b=>b.resources.filter(a=>a.format=="CSV").map(a=>a.url)).reduce((a,b)=>a.concat(b)).join('\n'); // filter, filter CSV files, get urls, flatten array, concantenate with newspaces
+fs.writeFile("links.txt", f, function(err) {if(err) {}}); // write to links.txt
+```
+
+```bash
+# c) Download individual CSV files:
+
+wget -i links.txt
+```
+
 #### 2. Inspect csv-file
 
 The tables from the GENESIS platforms can have different levels of complexity:
