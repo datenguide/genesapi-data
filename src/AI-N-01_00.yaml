@@ -1,0 +1,11 @@
+skip: 6
+skipfooter: 5
+names:
+  - _date
+  - _id
+  - name
+  - AI0101
+  - AI0105
+exclude:
+  - name
+
