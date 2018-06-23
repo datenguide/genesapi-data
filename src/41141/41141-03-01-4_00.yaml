@@ -1,0 +1,22 @@
+skip: 10
+skipfooter: 3
+names:
+  - _id
+  - name
+  - BTR034__ANZAHL
+  - BTR038
+  - VIE003__GV
+  - BTR034__TIER_1__BTR034
+  - BTR034__TIER_1__ANZAHL
+  - BTR034__TIER_111__BTR034
+  - BTR034__TIER_111__ANZAHL
+  - BTR034__TIER_2__BTR034
+  - BTR034__TIER_2__ANZAHL
+  - BTR034__TIER_22__BTR034
+  - BTR034__TIER_22__ANZAHL
+  - BTR034__TIER_3__BTR034
+  - BTR034__TIER_3__ANZAHL
+exclude:
+  - name
+add_cols:
+  _year: "year:2010"

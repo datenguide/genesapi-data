@@ -1,0 +1,14 @@
+skip: 10
+skipfooter: 4
+names:
+  - _id
+  - name
+  - BTR030
+  - FLC048__INSGESAMT
+  - FLC048__BTRARTOEK05
+  - FLC048__BTRARTOEK06
+  - FLC048__BTRARTOEK07
+exclude:
+  - name
+add_cols:
+  _year: "year:2016"

@@ -1,0 +1,17 @@
+skip: 10
+skipfooter: 3
+names:
+  - _id
+  - name
+  - BTR010
+  - FLC017
+  - BNZAT6__BNZAT_21__BTR010
+  - BNZAT6__BNZAT_21__FLC017
+  - BNZAT6__BNZAT_22__BTR010
+  - BNZAT6__BNZAT_22__FLC017
+  - BNZAT6__BNZAT_23__BTR010
+  - BNZAT6__BNZAT_23__FLC017
+exclude:
+  - name
+add_cols:
+  _year: "year:2010"
