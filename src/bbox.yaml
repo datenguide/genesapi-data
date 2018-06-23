@@ -2,4 +2,10 @@ names:
   - _id
   - geo__bbox
 delimiter: ","
+maps:
+  geo__bbox:
+    target: geo__bbox
+    func: "lambda x: [float(i) for i in x.split(',')] if ',' in x else x"
 encoding: utf-8
+dtypes:
+  geo__bbox: list__float

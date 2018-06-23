@@ -1,10 +1,11 @@
 na_values: ['x', '-', '.']
 encoding: latin1
 delimiter: ';'
-dtype: str
-decimal_separator: ','
-# filter:
-#   _id: 'lambda x: len(x) == 5'
+dtype:
+  _name: str
+  _id: str
+  _date: str
+decimal: ','
 post_maps:
   _date:
     target: _year
@@ -12,4 +13,4 @@ post_maps:
 non_num_names:
   - _id
   - _name
-to_num: true
+skipfooter: 0
