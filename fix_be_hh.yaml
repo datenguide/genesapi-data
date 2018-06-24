@@ -1,0 +1,16 @@
+- source: "02"
+  target: "02000"
+  data:
+    id: "02000"
+    nuts:
+      level: 3
+    name_ext: Hansestadt
+    slug: hamburg
+- source: "11"
+  target: "11000"
+  data:
+    id: "11000"
+    nuts:
+      level: 3
+    name_ext: Hauptstadt
+    slug: berlin
