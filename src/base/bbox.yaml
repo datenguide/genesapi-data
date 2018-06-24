@@ -7,5 +7,5 @@ maps:
     target: geo__bbox
     func: "lambda x: [float(i) for i in x.split(',')] if ',' in x else x"
 encoding: utf-8
-dtypes:
+graphql_dtype:
   geo__bbox: list__float
