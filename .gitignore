@@ -1,3 +1,4 @@
 cleaned
+*.cleaned
 build
 venv
